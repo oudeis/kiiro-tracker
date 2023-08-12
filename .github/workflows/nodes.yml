@@ -16,7 +16,7 @@ jobs:
       run: |-
         curl 'https://api.kiirocoin.org/mnstats' \
            | jq > mnstats.json
-        analyze_maternodes.sh mnstats.js > analyzed_stats
+        analyze_masternodes.sh mnstats.js > analyzed_stats
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
