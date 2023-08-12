@@ -18,7 +18,7 @@ jobs:
            | jq > mnstats.json
     - name: Analyze
       run: |-
-        ./analyze_masternodes.sh mnstats.js > analyzed_stats
+        ./analyze_masternodes.sh mnstats.json > analyzed_stats
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
