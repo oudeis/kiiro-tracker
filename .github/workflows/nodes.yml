@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl 'https://api.kiirocoin.org/mnstats' \
-           | jq > mnstats.json
+           | jq > mnstats.json && \
         analyze_masternodes.sh mnstats.js > analyzed_stats
     - name: Commit and push if it changed
       run: |-
