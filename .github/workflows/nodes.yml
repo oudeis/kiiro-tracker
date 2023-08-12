@@ -14,8 +14,10 @@ jobs:
       uses: actions/checkout@v3
     - name: Fetch latest data
       run: |-
+        source analyze.sh
         curl 'https://api.kiirocoin.org/mnstats' \
            | jq > mnstats.json
+        analyze_maternodes mnstats.js
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
