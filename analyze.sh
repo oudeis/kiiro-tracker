@@ -1,26 +1,23 @@
-function analyze_masternodes() {
-    local json_file="$1"
+#!/bin/bash
 
-    # Total number of masternodes
-    echo "Total Masternodes:"
-    jq '.masterNodes | length' "$json_file"
+json_file="$1"
 
-    # Status aggregates
-    echo -e "\nMasternodes by Status:"
-    jq -r '.masterNodes[] | select(.status) | .status' "$json_file" | sort | uniq -c
+# Total number of masternodes
+echo "Total Masternodes:"
+jq '.masterNodes | length' "$json_file"
 
-    # # Aggregates by Payee
-    # echo -e "\nMasternodes by Payee:"
-    # jq -r '.masterNodes[] | select(.payee) | .payee' "$json_file" | sort | uniq -c
+# Status aggregates
+echo -e "\nMasternodes by Status:"
+jq -r '.masterNodes[] | select(.status) | .status' "$json_file" | sort | uniq -c
 
-    # Analysis: Payees with more than one masternode
-    echo -e "\nPayees with More Than 1 Masternode:"
-    jq -r '.masterNodes[] | select(.payee) | .payee' "$json_file" | sort | uniq -c | sort -nr | awk '$1 > 1'
+# Aggregates by Payee
+# echo -e "\nMasternodes by Payee:"
+# jq -r '.masterNodes[] | select(.payee) | .payee' "$json_file" | sort | uniq -c
 
-    # Analysis: List of Masternodes not ENABLED 
-    echo -e "\nList of Masternodes with Status Other Than 'ENABLED':"
-    jq '.masterNodes[] | select(.status != "ENABLED") | {proTxHash, status}' "$json_file"
-}
+# Analysis: Payees with more than one masternode
+echo -e "\nPayees with More Than 1 Masternode:"
+jq -r '.masterNodes[] | select(.payee) | .payee' "$json_file" | sort | uniq -c | sort -nr | awk '$1 > 1'
 
-# Example usage
-# analyze_masternodes "path_to_your_json_file.json"
+# Analysis: List of Masternodes not ENABLED 
+echo -e "\nList of Masternodes with Status Other Than 'ENABLED':"
+jq '.masterNodes[] | select(.status != "ENABLED") | {proTxHash, status}' "$json_file"
