@@ -1,17 +1,17 @@
 {
   "stats": {
     "enabledMn": 256,
-    "xeggexKiiroPrice": "4.01",
+    "xeggexKiiroPrice": "4.018288",
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": "2.25",
     "mnEstKiiroPerDay": "40.50",
     "mnEstKiiroPerWeek": "283.50",
     "mnEstKiiroPerMonth": "1215.00",
     "mnEstKiiroPerYear": "14782.50",
-    "mnEstKiiroIncomePerDay": "162.41",
-    "mnEstKiiroIncomePerWeek": "1136.84",
-    "mnEstKiiroIncomePerMonth": "4872.15",
-    "mnEstKiiroIncomePerYear": "59277.82",
+    "mnEstKiiroIncomePerDay": "162.74",
+    "mnEstKiiroIncomePerWeek": "1139.18",
+    "mnEstKiiroIncomePerMonth": "4882.22",
+    "mnEstKiiroIncomePerYear": "59400.34",
     "estRoiDays": "40.50"
   },
   "masterNodes": [
@@ -2164,18 +2164,6 @@
       "pubkeyoperator": "81fd1152393f18571b69e8673162ecedd5335463bd5c2d7324c897069606bb847adef0b827fca9ce0d722d60ff3e58be"
     },
     {
-      "proTxHash": "8a4f524756f2b24a5bdf5cf7425402a8be2f601f65c0f64fdd38c622e3a3b37e",
-      "address": "135.181.157.206:8999",
-      "payee": "KMa1ueTUMSQapbsSaL3xRBU8gnML1j1pxp",
-      "status": "POSE_BANNED",
-      "lastpaidtime": 0,
-      "lastpaidblock": 0,
-      "owneraddress": "K8FWqt5eTrY6uyVN7CE3rS5UmwUvTxVxdo",
-      "votingaddress": "K8FWqt5eTrY6uyVN7CE3rS5UmwUvTxVxdo",
-      "collateraladdress": "KPeezPpqrR55MwUM8d8gc549Woj5priFGA",
-      "pubkeyoperator": "937592d3bfc394389e73ed92606529f8990ffc1a85947a0e9904f693d9d40267900654cca998b3829ae2795a62decd6f"
-    },
-    {
       "proTxHash": "d8db8d73b0a6a61d79d3a1e000439afe6812cd7d34fa269534979bf031328096",
       "address": "65.109.143.203:8999",
       "payee": "KHk1PLuaBpsnmCRzSEuwwefBcQ2CRTUsUR",
@@ -2384,8 +2372,8 @@
       "address": "164.68.102.154:8999",
       "payee": "KAgLSefepQMRCsS6bK1h8J1djNHD9KtkR9",
       "status": "ENABLED",
-      "lastpaidtime": 1691854024,
-      "lastpaidblock": 15159,
+      "lastpaidtime": 1691891763,
+      "lastpaidblock": 15407,
       "owneraddress": "KP4UKD9M8BnguooPaLnaB5i9T71cnPKmv4",
       "votingaddress": "KMoB7MrbFMKJfRD8viVrb9D8JqnG4xvi7f",
       "collateraladdress": "KEzwRkWn5pxr9ruJwMTQ95XXfMbVrJgrhH",
