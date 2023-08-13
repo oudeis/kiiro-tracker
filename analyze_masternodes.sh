@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# TODO:
+# - 
+
+
 json_file="$1"
 
 # Total number of masternodes
