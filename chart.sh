@@ -1,17 +1,17 @@
 #!/bin/bash
 
 # Extracting data
-echo "Extracting data to data.txt..."
-git log --pretty=format:'%H|%s' analyzed_stats | head -30000 | 
+echo "Extracting data to data/data.txt..."
+git log --pretty=format:'%H|%s' data/analyzed_stats | # head -30000 | 
 while IFS="|" read commit message; do
     timestamp=$(echo $message | cut -d' ' -f4-8) 
     # echo $timestamp
     # echo $commit
-    countTotal=$(git show ${commit}:analyzed_stats | awk 'NR==2{print $1}')
-    countEnabled=$(git show ${commit}:analyzed_stats | awk 'NR==5{print $1}')
+    countTotal=$(git show ${commit}:data/analyzed_stats | awk 'NR==2{print $1}')
+    countEnabled=$(git show ${commit}:data/analyzed_stats | awk 'NR==5{print $1}')
     echo "$timestamp $countTotal $countEnabled"
 done > ./data.txt
-echo "Data extraction complete. Check data.txt."
+echo "Data extraction complete. Check data/data.txt."
 
 
 # Transform the data for gnuplot
@@ -30,13 +30,13 @@ BEGIN {
     MONTH["Nov"] = "11";
     MONTH["Dec"] = "12";
 }
-{print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' ./data.txt > ./masternodes_plot_data.txt
+{print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' data/data.txt > data/masternodes_plot_data.txt
 
 
-echo "data.txt:" 
-cat ./data.txt
-echo "masternodes_plot_data.txt:" 
-cat ./masternodes_plot_data.txt
+echo "data/data.txt:" 
+cat data/data.txt
+echo "data/masternodes_plot_data.txt:" 
+cat data/masternodes_plot_data.txt
 
 # Plot the data using gnuplot
 gnuplot -p -e "
@@ -47,6 +47,6 @@ gnuplot -p -e "
     set format x '%d/%m'; 
     set xlabel 'Time';
     set ylabel 'Masternode count';
-    plot 'masternodes_plot_data.txt' using 1:3 with linespoints title 'TOTAL Masternode count over time', \
-         'masternodes_plot_data.txt' using 1:4 with linespoints title 'ENABLED Masternode count over time';
+    plot 'data/masternodes_plot_data.txt' using 1:3 with linespoints title 'TOTAL Masternode count over time', \
+         'data/masternodes_plot_data.txt' using 1:4 with linespoints title 'ENABLED Masternode count over time';
 "
