@@ -10,7 +10,7 @@ while IFS="|" read commit message; do
     countTotal=$(git show ${commit}:data/analyzed_stats | awk 'NR==2{print $1}')
     countEnabled=$(git show ${commit}:data/analyzed_stats | awk 'NR==5{print $1}')
     echo "$timestamp $countTotal $countEnabled"
-done > ./data.txt
+done > data/data.txt
 echo "Data extraction complete. Check data/data.txt."
 
 
