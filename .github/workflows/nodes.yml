@@ -16,9 +16,11 @@ jobs:
       run: |-
         curl 'https://api.kiirocoin.org/mnstats' \
            | jq > mnstats.json
-    - name: Analyze
+    - name: Install gnuplot
       run: |-
         sudo apt install -y gnuplot
+    - name: Analyze
+      run: |-
         ./analyze_masternodes.sh mnstats.json > analyzed_stats
     - name: Generate chart
       run: |- 
