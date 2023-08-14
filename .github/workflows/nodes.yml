@@ -18,7 +18,7 @@ jobs:
            | jq > mnstats.json
     - name: Analyze
       run: |-
-        apt install -y gnuplot
+        sudo dpkg -i gnuplot
         ./analyze_masternodes.sh mnstats.json > analyzed_stats
     - name: Generate chart
       run: |- 
