@@ -33,6 +33,9 @@ BEGIN {
 {print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' /tmp/data.txt > masternodes_plot_data.txt
 
 
+echo "/tmp/data.txt:" 
+cat /tmp/data.txt
+echo " masternodes_plot_data.txt:" 
 cat masternodes_plot_data.txt
 
 # Plot the data using gnuplot
