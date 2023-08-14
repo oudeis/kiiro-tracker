@@ -2,7 +2,7 @@
 
 # Extracting data
 echo "Extracting data to /tmp/data.txt..."
-git log --pretty=format:'%H|%s' analyzed_stats | head -30 |
+git log --pretty=format:'%H|%s' analyzed_stats | head -30000 | 
 while IFS="|" read commit message; do
     timestamp=$(echo $message | cut -d' ' -f4-8) 
     # echo $timestamp
@@ -14,7 +14,7 @@ done > /tmp/data.txt
 echo "Data extraction complete. Check /tmp/data.txt."
 
 
-# Transform the data for proper formatting
+# Transform the data for gnuplot
 awk '
 BEGIN {
     MONTH["Jan"] = "01";
@@ -30,17 +30,17 @@ BEGIN {
     MONTH["Nov"] = "11";
     MONTH["Dec"] = "12";
 }
-{print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' /tmp/data.txt > /tmp/plot_data.txt
+{print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' /tmp/data.txt > masternodes_plot_data.txt
 
 # Plot the data using gnuplot
 gnuplot -p -e "
+    set terminal png;
+    set output 'masternodes_plot.png';
     set xdata time;
     set timefmt '%Y-%m-%d %H:%M:%S';
     set format x '%d/%m'; 
     set xlabel 'Time';
     set ylabel 'Masternode count';
-    plot '/tmp/plot_data.txt' using 1:3 with linespoints title 'TOTAL Masternode count over time', \
-         '/tmp/plot_data.txt' using 1:4 with linespoints title 'ENABLED Masternode count over time';
+    plot 'masternodes_plot_data.txt' using 1:3 with linespoints title 'TOTAL Masternode count over time', \
+         'masternodes_plot_data.txt' using 1:4 with linespoints title 'ENABLED Masternode count over time';
 "
-
-# End of the script
