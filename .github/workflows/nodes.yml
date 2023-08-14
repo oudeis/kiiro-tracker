@@ -21,8 +21,8 @@ jobs:
         sudo apt install -y gnuplot
     - name: Analyze
       run: |-
-        ./analyze_masternodes.sh mnstats.json > analyzed_stats
-    - name: Generate chart
+        ./analyze_masternodes.sh mnstats.json > analyzed_stats && cat analyzed_stats
+    - name: Generate chart 
       run: |- 
         ./chart.sh 
     - name: Commit and push if it changed
