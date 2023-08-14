@@ -17,13 +17,13 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl 'https://api.kiirocoin.org/mnstats' \
-           | jq > mnstats.json
+           | jq > data/mnstats.json
     - name: Install gnuplot
       run: |-
         sudo apt install -y gnuplot
     - name: Analyze
       run: |-
-        ./analyze_masternodes.sh mnstats.json > analyzed_stats && cat analyzed_stats
+        ./analyze_masternodes.sh data/mnstats.json > data/analyzed_stats && cat data/analyzed_stats
     - name: Generate chart 
       run: |- 
         ./chart.sh 
