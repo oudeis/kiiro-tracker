@@ -41,7 +41,7 @@ cat data/masternodes_plot_data.txt
 # Plot the data using gnuplot
 gnuplot -p -e "
     set terminal png;
-    set output 'masternodes_plot.png';
+    set output 'data/masternodes_plot.png';
     set xdata time;
     set timefmt '%Y-%m-%d %H:%M:%S';
     set format x '%d/%m'; 
