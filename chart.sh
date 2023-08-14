@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Extracting data
-echo "Extracting data to /tmp/data.txt..."
+echo "Extracting data to data.txt..."
 git log --pretty=format:'%H|%s' analyzed_stats | head -30000 | 
 while IFS="|" read commit message; do
     timestamp=$(echo $message | cut -d' ' -f4-8) 
@@ -10,8 +10,8 @@ while IFS="|" read commit message; do
     countTotal=$(git show ${commit}:analyzed_stats | awk 'NR==2{print $1}')
     countEnabled=$(git show ${commit}:analyzed_stats | awk 'NR==5{print $1}')
     echo "$timestamp $countTotal $countEnabled"
-done > /tmp/data.txt
-echo "Data extraction complete. Check /tmp/data.txt."
+done > data.txt
+echo "Data extraction complete. Check data.txt."
 
 
 # Transform the data for gnuplot
@@ -30,11 +30,11 @@ BEGIN {
     MONTH["Nov"] = "11";
     MONTH["Dec"] = "12";
 }
-{print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' /tmp/data.txt > masternodes_plot_data.txt
+{print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' data.txt > masternodes_plot_data.txt
 
 
-echo "/tmp/data.txt:" 
-cat /tmp/data.txt
+echo "data.txt:" 
+cat data.txt
 echo " masternodes_plot_data.txt:" 
 cat masternodes_plot_data.txt
 
