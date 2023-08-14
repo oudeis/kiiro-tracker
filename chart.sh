@@ -10,7 +10,7 @@ while IFS="|" read commit message; do
     countTotal=$(git show ${commit}:analyzed_stats | awk 'NR==2{print $1}')
     countEnabled=$(git show ${commit}:analyzed_stats | awk 'NR==5{print $1}')
     echo "$timestamp $countTotal $countEnabled"
-done > data.txt
+done > ./data.txt
 echo "Data extraction complete. Check data.txt."
 
 
@@ -30,13 +30,13 @@ BEGIN {
     MONTH["Nov"] = "11";
     MONTH["Dec"] = "12";
 }
-{print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' data.txt > masternodes_plot_data.txt
+{print $5 "-" MONTH[$1] "-" $2 " " $3, $6, $7}' ./data.txt > ./masternodes_plot_data.txt
 
 
 echo "data.txt:" 
-cat data.txt
-echo " masternodes_plot_data.txt:" 
-cat masternodes_plot_data.txt
+cat ./data.txt
+echo "masternodes_plot_data.txt:" 
+cat ./masternodes_plot_data.txt
 
 # Plot the data using gnuplot
 gnuplot -p -e "
