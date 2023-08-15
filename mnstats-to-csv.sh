@@ -16,5 +16,5 @@ jq -r '.masterNodes[] |
         .votingaddress, 
         .collateraladdress, 
         .pubkeyoperator, 
-        "'$timestamp'"
+        "'"$timestamp"'"
     ] | @csv' $json_file
