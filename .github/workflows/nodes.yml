@@ -18,6 +18,10 @@ jobs:
       run: |-
         curl 'https://api.kiirocoin.org/mnstats' \
            | jq > data/mnstats.json
+    - name: Convert to csv
+      run: |-
+        timestamp=$(date -u)
+        ./mnstats-to-csv.sh data/mnstats.json $timestamp > data/mnstats.csv
     - name: Install gnuplot
       run: |-
         sudo apt install -y gnuplot
