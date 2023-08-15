@@ -7,7 +7,7 @@ Masternodes by Status:
 
 Payees with More Than 1 Masternode:
      10 KJDyY5HcERaimemGnjKTWXoVw215m6Ja9R
-      9 KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3
+     10 KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3
       6 KFk4RfETfAJP8tkagcBw2yTpoWYk2tfQD5
       4 KFGtmPCN6Z4nGApU6HhwpVwE6ngeEcYHki
       4 KAfPiJRURwgvYmnUPtKmTiyJHKwVMQR7nh
@@ -32,7 +32,7 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
-  "proTxHash": "d4bc1b083c70f02be8a620cd00d4ae637a9c3c0ee96c3011605411960f133c38",
+  "proTxHash": "20c7a296ea0ae0d39ec569cedbac3aa51c5d352f0f198f43fd1e26d2acf91942",
   "status": "POSE_BANNED"
 }
 {
