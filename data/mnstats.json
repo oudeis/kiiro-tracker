@@ -1,18 +1,18 @@
 {
   "stats": {
-    "enabledMn": 319,
+    "enabledMn": 321,
     "xeggexKiiroPrice": "1.7",
     "avgBlocksPerDay": 576,
-    "mnEstPayoutsPerDay": "1.81",
-    "mnEstKiiroPerDay": "32.58",
-    "mnEstKiiroPerWeek": "228.06",
-    "mnEstKiiroPerMonth": "977.40",
-    "mnEstKiiroPerYear": "11891.70",
-    "mnEstKiiroIncomePerDay": "55.39",
-    "mnEstKiiroIncomePerWeek": "387.70",
-    "mnEstKiiroIncomePerMonth": "1661.58",
-    "mnEstKiiroIncomePerYear": "20215.89",
-    "estRoiDays": "32.58"
+    "mnEstPayoutsPerDay": "1.79",
+    "mnEstKiiroPerDay": "32.22",
+    "mnEstKiiroPerWeek": "225.54",
+    "mnEstKiiroPerMonth": "966.60",
+    "mnEstKiiroPerYear": "11760.30",
+    "mnEstKiiroIncomePerDay": "54.77",
+    "mnEstKiiroIncomePerWeek": "383.42",
+    "mnEstKiiroIncomePerMonth": "1643.22",
+    "mnEstKiiroIncomePerYear": "19992.51",
+    "estRoiDays": "32.22"
   },
   "masterNodes": [
     {
@@ -1252,12 +1252,24 @@
       "pubkeyoperator": "9629b2703ceaf33c0a7d1c25425108bde7a48a99ee4411d4dbfb0ef4f69663a5b8e38d286e040ea4aaf01c1cf2c5bb19"
     },
     {
+      "proTxHash": "27fdb6e741cb5c52d2db66d8f82717dc02dadec295e511a9ed989582530a4967",
+      "address": "18.188.99.43:8999",
+      "payee": "KV7d67MzbiVtJicZ4UgLcpDc5NeHjhX87n",
+      "status": "ENABLED",
+      "lastpaidtime": 0,
+      "lastpaidblock": 0,
+      "owneraddress": "KPhSbB1ykFAQ6YRTffoZucQp5uVFVu5o5Q",
+      "votingaddress": "KPhSbB1ykFAQ6YRTffoZucQp5uVFVu5o5Q",
+      "collateraladdress": "K7oHAYfkrAQsiwVbTXXPivM3DkRZzcQjby",
+      "pubkeyoperator": "16946b62afc72257cc17ddf9a17de8a9831e5f6f5095e53d6aceb0bfa7860e4b86d27dc1ac893721ef82f1168b300ba1"
+    },
+    {
       "proTxHash": "1413e1cf081f52233c7967cb15ff25d135e18bdcadcd3878d8525ce0b7372a44",
       "address": "185.250.249.57:8999",
       "payee": "KGeZq436SEGvfEe2m7wyyYHR9upUCemgd8",
       "status": "ENABLED",
-      "lastpaidtime": 1692344984,
-      "lastpaidblock": 18323,
+      "lastpaidtime": 1692390109,
+      "lastpaidblock": 18624,
       "owneraddress": "KPLiaJGr2oBmgdxFuJZUsw1P6nYYXSyprX",
       "votingaddress": "KPLiaJGr2oBmgdxFuJZUsw1P6nYYXSyprX",
       "collateraladdress": "KHDRm7MpfBWzvkNKJqEaFBdbnukUCQfQYN",
@@ -2210,6 +2222,18 @@
       "votingaddress": "KCegYZxcQYD4qkLxpprNqGjCC5LxP8YBkq",
       "collateraladdress": "KGpVSxQiF7bbUh1Cvx7XEAjgfAaDmT4zya",
       "pubkeyoperator": "8a2494fba5bcc4c496cd960c02e54954380881ee3e7c4c9ad915534149216156b7de9782b8c4687ade800fd56054491f"
+    },
+    {
+      "proTxHash": "0b797cec0c68398c828ad9596295322ac53a01978d78a6fceed86f47040ac619",
+      "address": "167.86.91.153:8999",
+      "payee": "KA6XasmQGFGG76fbakjemhTpz8ar8FZtjD",
+      "status": "ENABLED",
+      "lastpaidtime": 0,
+      "lastpaidblock": 0,
+      "owneraddress": "KHSseGCnWZxv6PhtkyU8FVQDP6kGbsYfG7",
+      "votingaddress": "KHSseGCnWZxv6PhtkyU8FVQDP6kGbsYfG7",
+      "collateraladdress": "KA6XasmQGFGG76fbakjemhTpz8ar8FZtjD",
+      "pubkeyoperator": "8c951d1f5bcc67dc4d470aefd38c68edb8a0120c36bfa861f4d6d0143aec565af30b378004cc88bb75db066f7cb4ec4d"
     },
     {
       "proTxHash": "90564075472473d3301ef4a8015a3e51e663cead83b01b93439fd52f278f1c54",
@@ -3440,8 +3464,8 @@
       "address": "149.50.129.23:8999",
       "payee": "KDyMAYXtZmk3aZkR26sfDUkrDQJyKF4nfb",
       "status": "ENABLED",
-      "lastpaidtime": 1692344719,
-      "lastpaidblock": 18322,
+      "lastpaidtime": 1692389698,
+      "lastpaidblock": 18623,
       "owneraddress": "KNnMjJx8Dqne9g4dEAAz9sJ8grCzKGVWC2",
       "votingaddress": "KNnMjJx8Dqne9g4dEAAz9sJ8grCzKGVWC2",
       "collateraladdress": "KNrpENFHV1fudECmCX23cC1GWyyo1r5DZL",
@@ -3824,8 +3848,8 @@
       "address": "172.86.79.33:8999",
       "payee": "KL7DgUUzjfJjBt1gMtLnZ4Jo4ZCphDuVQq",
       "status": "ENABLED",
-      "lastpaidtime": 1692345318,
-      "lastpaidblock": 18324,
+      "lastpaidtime": 1692390121,
+      "lastpaidblock": 18625,
       "owneraddress": "KEmM2j2ukmHdMtDCBGFbhnsc8KzhYpnwjB",
       "votingaddress": "KEmM2j2ukmHdMtDCBGFbhnsc8KzhYpnwjB",
       "collateraladdress": "KReTo7YdfGYhmyfaNWhRoEn2DSNDvxVRNm",
