@@ -1,7 +1,7 @@
 {
   "stats": {
     "enabledMn": 335,
-    "xeggexKiiroPrice": "1.175001",
+    "xeggexKiiroPrice": "1.175002",
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": "1.72",
     "mnEstKiiroPerDay": "30.96",
@@ -11,7 +11,7 @@
     "mnEstKiiroIncomePerDay": "36.38",
     "mnEstKiiroIncomePerWeek": "254.65",
     "mnEstKiiroIncomePerMonth": "1091.34",
-    "mnEstKiiroIncomePerYear": "13277.98",
+    "mnEstKiiroIncomePerYear": "13277.99",
     "estRoiDays": "30.96"
   },
   "masterNodes": [
