@@ -1,17 +1,17 @@
 {
   "stats": {
     "enabledMn": 335,
-    "xeggexKiiroPrice": "1.119",
+    "xeggexKiiroPrice": "1.01",
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": "1.72",
     "mnEstKiiroPerDay": "30.96",
     "mnEstKiiroPerWeek": "216.72",
     "mnEstKiiroPerMonth": "928.80",
     "mnEstKiiroPerYear": "11300.40",
-    "mnEstKiiroIncomePerDay": "34.64",
-    "mnEstKiiroIncomePerWeek": "242.51",
-    "mnEstKiiroIncomePerMonth": "1039.33",
-    "mnEstKiiroIncomePerYear": "12645.15",
+    "mnEstKiiroIncomePerDay": "31.27",
+    "mnEstKiiroIncomePerWeek": "218.89",
+    "mnEstKiiroIncomePerMonth": "938.09",
+    "mnEstKiiroIncomePerYear": "11413.40",
     "estRoiDays": "30.96"
   },
   "masterNodes": [
