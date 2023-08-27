@@ -1,7 +1,7 @@
 {
   "stats": {
     "enabledMn": 395,
-    "xeggexKiiroPrice": "0.8132",
+    "xeggexKiiroPrice": "0.813201",
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": "1.46",
     "mnEstKiiroPerDay": "26.28",
@@ -11,7 +11,7 @@
     "mnEstKiiroIncomePerDay": "21.37",
     "mnEstKiiroIncomePerWeek": "149.60",
     "mnEstKiiroIncomePerMonth": "641.13",
-    "mnEstKiiroIncomePerYear": "7800.38",
+    "mnEstKiiroIncomePerYear": "7800.39",
     "estRoiDays": "26.28"
   },
   "masterNodes": [
@@ -4196,8 +4196,8 @@
       "address": "45.32.136.134:8999",
       "payee": "K9wrqvDQRfZHffvqn6pscT39sJMzoLZUQZ",
       "status": "ENABLED",
-      "lastpaidtime": 1693111884,
-      "lastpaidblock": 23181,
+      "lastpaidtime": 1693161702,
+      "lastpaidblock": 23568,
       "owneraddress": "KAcFBS4NL1JzAuybXesUhn8WQ8uTpJjayA",
       "votingaddress": "KAcFBS4NL1JzAuybXesUhn8WQ8uTpJjayA",
       "collateraladdress": "KKe6ZZyH6QsrKPNTN6SdFZWBRKZkJBG6ne",
