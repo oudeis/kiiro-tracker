@@ -2,8 +2,8 @@ Total Masternodes:
 417
 
 Masternodes by Status:
-    370 ENABLED
-     47 POSE_BANNED
+    376 ENABLED
+     41 POSE_BANNED
 
 Payees with More Than 1 Masternode:
      16 KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3
@@ -49,10 +49,6 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
-  "proTxHash": "327968c7c5987e2321d02b3ff3c508f8ff958e2953f070d5ca6673a5509c191b",
-  "status": "POSE_BANNED"
-}
-{
   "proTxHash": "4a3ae25ac4a45436d2106d78f22d854ca64a690e7f35713a0836ea60828643e9",
   "status": "POSE_BANNED"
 }
@@ -66,10 +62,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "798436fe08bf17795ec825e78db3922250ccbfb7a5a33fa40543ea3599e8dd52",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "95d56f3f38fbf9c76694cae3ed589ccb076f460b5776dfd31cab4fc3eb13e539",
   "status": "POSE_BANNED"
 }
 {
@@ -94,10 +86,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "3bd51587d65158b63fb5847cb76e4b9b0281bbce0f49dcdca0a04e8b461a1f9f",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "5a21f6b801d1ef806a8600edca7f8b8111d831778d991d9c1efcd3593776be17",
   "status": "POSE_BANNED"
 }
 {
@@ -149,10 +137,6 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
-  "proTxHash": "9b0945a97dec599240bdfc66092cd5a3560af40135eae0a16c6d0960a4e2f2f9",
-  "status": "POSE_BANNED"
-}
-{
   "proTxHash": "e506b470f4189148d0955c777216a6a317af64f55ef3ba4b5e00b300a9ae68f6",
   "status": "POSE_BANNED"
 }
@@ -181,19 +165,11 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
-  "proTxHash": "925af47290110fe5bd2126e0d5bed1ebc0d51e53a1a5c0e134ec5ef0379d250e",
-  "status": "POSE_BANNED"
-}
-{
   "proTxHash": "bb3bde96ce3f2a7e9932eec5792816cb0380b9200d215b4d6464aec567df3914",
   "status": "POSE_BANNED"
 }
 {
   "proTxHash": "fa87f0c0e9b42322891079319b333e5536f69209505d2dde895ca47c28974841",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "e64463a23988ea351b87293e42023e0368911ba98b650cbca9d3669797d400fa",
   "status": "POSE_BANNED"
 }
 {
