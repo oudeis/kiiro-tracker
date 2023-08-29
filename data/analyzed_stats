@@ -2,8 +2,8 @@ Total Masternodes:
 412
 
 Masternodes by Status:
-    394 ENABLED
-     18 POSE_BANNED
+    385 ENABLED
+     27 POSE_BANNED
 
 Payees with More Than 1 Masternode:
      13 KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3
@@ -45,11 +45,31 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "b0addcf46a354881dbd92e17a3f758fd609ba6fccd2531529a87daa2dca7352b",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "4a3ae25ac4a45436d2106d78f22d854ca64a690e7f35713a0836ea60828643e9",
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "02d737686d85946a9ce37efa1b8587c4a290e15a83b0a0feef7a4bcf497b9b65",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "c5de4e76e877a6cbf646b3e3adf25408b4ff1e1adb6f6538d0e30778177d07a4",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "95d56f3f38fbf9c76694cae3ed589ccb076f460b5776dfd31cab4fc3eb13e539",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "a003b9157ff64c94ba276fbddfd68c014c19c9300e2525a4af8265232c0ffa40",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "3bd51587d65158b63fb5847cb76e4b9b0281bbce0f49dcdca0a04e8b461a1f9f",
   "status": "POSE_BANNED"
 }
 {
@@ -66,6 +86,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "82c53e345689ef4c4a350082098b35265e93b326f86933d9fa08a108189aad3b",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "81aa011ef2872fed2ebe5cc355e807311e56c6ca5b3ac3d86f19972a3ae2de24",
   "status": "POSE_BANNED"
 }
 {
@@ -93,10 +117,22 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "f7691812d2ac697d4a17e64d301af09e7e4deca8b96329b960e6473825af0b90",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "fa87f0c0e9b42322891079319b333e5536f69209505d2dde895ca47c28974841",
   "status": "POSE_BANNED"
 }
 {
   "proTxHash": "8336bd175cc1f6c2878aab88c32f76b312b9664247eed17feca45cf1504f5a6f",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "8cceaccf0793d6d07d3e8cfa2ad63f4f09c77950ec52b79f533c2fafa2048e69",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "edd861890c1a15347217db283221a9a58c4c7a022f22df770efb8aefc3e920b3",
   "status": "POSE_BANNED"
 }
