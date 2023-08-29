@@ -2,8 +2,8 @@ Total Masternodes:
 412
 
 Masternodes by Status:
-    403 ENABLED
-      9 POSE_BANNED
+    394 ENABLED
+     18 POSE_BANNED
 
 Payees with More Than 1 Masternode:
      13 KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3
@@ -29,6 +29,18 @@ Payees with More Than 1 Masternode:
 
 List of Masternodes with Status Other Than 'ENABLED':
 {
+  "proTxHash": "5d6432106a277327fb2a72a006541b2f18ab7afef24bde7e38224187d254f816",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "f0a32309077c1e8c5490801b355abe937ca8dca225fbeb2eec06799caec5047d",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "ed01c9062f66885ea1ec95bbbaa47f6484f5336dce804ee472f05258b78f7af3",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "327968c7c5987e2321d02b3ff3c508f8ff958e2953f070d5ca6673a5509c191b",
   "status": "POSE_BANNED"
 }
@@ -41,6 +53,18 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "5a21f6b801d1ef806a8600edca7f8b8111d831778d991d9c1efcd3593776be17",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "f62467bf2703566e0d3b32ddb2b8104138557c671c7c731ce0100f6ba2950b3d",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "0c3cb623b8ed456d9ff3fb47405a41029b436d2d2fa1fec3458d078681d5c0e2",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "82c53e345689ef4c4a350082098b35265e93b326f86933d9fa08a108189aad3b",
   "status": "POSE_BANNED"
 }
@@ -49,11 +73,23 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "d89ac2ea2848b875b99f3041249654cedfa0ef2d17a54881499607f0706343b6",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "6951620aad121e13f7f9dd601dcbf79adef4170ccf9ef70c8548fa413096f9d2",
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "299de51ea1403462f9aa9de1a25ffb32a058e857763e365cfefa16e255a3a219",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "e899c0fc0e64277e7f994c414770d4a1bf10ca44c13898892dbdc5e36a5895ac",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "d05ad1e38631574846135938e4f344b7b7bd9a6b91f302cf81b0b33a1f210d47",
   "status": "POSE_BANNED"
 }
 {
