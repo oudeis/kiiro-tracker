@@ -1,6 +1,6 @@
 {
   "stats": {
-    "enabledMn": 513,
+    "enabledMn": 514,
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": "1.12",
     "mnEstKiiroPerDay": "20.16",
@@ -4602,7 +4602,7 @@
       "proTxHash": "357b9b3ad064319e6548b10f5c1f7033d0d1a478869144e2f4130502bf3a0ce5",
       "address": "94.156.189.60:8999",
       "payee": "KU28gXxd27Urq3D3cCQGB4bFeyqrtLvpkm",
-      "status": "POSE_BANNED",
+      "status": "ENABLED",
       "lastpaidtime": 1693261469,
       "lastpaidblock": 24305,
       "owneraddress": "KREe9uWkRZmpGnBw9pDw4ndpctttw2Tq16",
@@ -5647,8 +5647,8 @@
       "address": "93.93.112.109:8999",
       "payee": "K7p7cDo59VffMww97wsjxz96fzH6mMqCwR",
       "status": "ENABLED",
-      "lastpaidtime": 1694183050,
-      "lastpaidblock": 30330,
+      "lastpaidtime": 1694264980,
+      "lastpaidblock": 30829,
       "owneraddress": "KCeNsskU8xuXbcnKNirHgT3bt1su2qdeeg",
       "votingaddress": "KCeNsskU8xuXbcnKNirHgT3bt1su2qdeeg",
       "collateraladdress": "KFng9q62ZTUtyzVL9r4bLD4QdesccpmZQz",
