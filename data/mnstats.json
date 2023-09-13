@@ -1,6 +1,6 @@
 {
   "stats": {
-    "enabledMn": 533,
+    "enabledMn": 534,
     "xeggexKiiroPrice": "0.3291",
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": "1.08",
@@ -200,8 +200,8 @@
       "address": "212.87.214.234:8999",
       "payee": "KMcdJpA176HZVH3CaWNsJjwwWYRdJHdu8Y",
       "status": "ENABLED",
-      "lastpaidtime": 1694529082,
-      "lastpaidblock": 32520,
+      "lastpaidtime": 1694615277,
+      "lastpaidblock": 33049,
       "owneraddress": "KQfKX2UsTvFZwNfcMjRWrrF7dQ7sdd6G8y",
       "votingaddress": "KVkPmYoXChVcQLtTcgKHAbsBcFS2ehEBFP",
       "collateraladdress": "KNN9B1Uygph4ijRH1Lypgfm23ec4WNJiUE",
@@ -224,8 +224,8 @@
       "address": "164.90.220.150:8999",
       "payee": "KPFLhcx8YtpvTiDxeDEoS63Z6Dgy278Y96",
       "status": "ENABLED",
-      "lastpaidtime": 1694529626,
-      "lastpaidblock": 32522,
+      "lastpaidtime": 1694615413,
+      "lastpaidblock": 33050,
       "owneraddress": "KD4vtVzmp2qXSi8mWensRH3zNQ5V8vwGAu",
       "votingaddress": "KD4vtVzmp2qXSi8mWensRH3zNQ5V8vwGAu",
       "collateraladdress": "KE4939Pukh5swFLuiwb3HWAjShF3wBjGqs",
@@ -3110,6 +3110,18 @@
       "votingaddress": "KFf2X7kX6hNsc4wc7YfzdsbDSTszFqpUNV",
       "collateraladdress": "KKKfK2rTnuTjLpk3S2mBjzRz5jx8TnYMtd",
       "pubkeyoperator": "0e295ab62e6026550de79bd04c91e3f453abff5824a24216432f8727136290766c6c9f5b6824844a93f7d82f1894fc5c"
+    },
+    {
+      "proTxHash": "af4372aecc9b0828f6087f1a06c3b5c084d2fac2cf2ad4ef7665af9642b7e6fc",
+      "address": "135.148.138.101:8999",
+      "payee": "KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3",
+      "status": "ENABLED",
+      "lastpaidtime": 0,
+      "lastpaidblock": 0,
+      "owneraddress": "KRRF3gB9iK5ZUSFAVVvrfTpyjgMGRRHxtD",
+      "votingaddress": "KRRF3gB9iK5ZUSFAVVvrfTpyjgMGRRHxtD",
+      "collateraladdress": "K9U3VeqaR7M9SFkTGpJkY9AKK2tvQ2rGwQ",
+      "pubkeyoperator": "891743e388d98b8eac57ca3e344e23bfa958d5c93ef55a84763f3613a48a13f1a3fc231cdb7b0537f14c3845e3d23e5d"
     },
     {
       "proTxHash": "216a712e5b013fa6224237a593ac0d5e65cfe66d66b1e575e47e561449785686",
