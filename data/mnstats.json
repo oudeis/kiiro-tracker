@@ -1,7 +1,7 @@
 {
   "stats": {
     "enabledMn": 611,
-    "xeggexKiiroPrice": "0.367",
+    "xeggexKiiroPrice": "0.367003",
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": "0.94",
     "mnEstKiiroPerDay": "16.92",
@@ -11,7 +11,7 @@
     "mnEstKiiroIncomePerDay": "6.21",
     "mnEstKiiroIncomePerWeek": "43.47",
     "mnEstKiiroIncomePerMonth": "186.29",
-    "mnEstKiiroIncomePerYear": "2266.52",
+    "mnEstKiiroIncomePerYear": "2266.54",
     "estRoiDays": "16.92"
   },
   "masterNodes": [
@@ -992,8 +992,8 @@
       "address": "173.212.205.109:8999",
       "payee": "K8K8jd6REoaefNnsZCCv1a8Tq9rdHRieYt",
       "status": "ENABLED",
-      "lastpaidtime": 1695212504,
-      "lastpaidblock": 37047,
+      "lastpaidtime": 1695303456,
+      "lastpaidblock": 37645,
       "owneraddress": "KUeKnkkv8fy2KmvLnZ4gTzUoDDoeyiPisQ",
       "votingaddress": "KUeKnkkv8fy2KmvLnZ4gTzUoDDoeyiPisQ",
       "collateraladdress": "KGEnk22iueXiumY7MqWDCNLH9XCrwPBNHj",
@@ -3188,8 +3188,8 @@
       "address": "149.50.131.37:8999",
       "payee": "KBJ7aKDxHvr1rHwHhfHVXHGc9TAW4Hen7g",
       "status": "ENABLED",
-      "lastpaidtime": 1695212097,
-      "lastpaidblock": 37046,
+      "lastpaidtime": 1695303444,
+      "lastpaidblock": 37644,
       "owneraddress": "KH4QkUCeLv7in7746Ujs35HKbJto579Fxi",
       "votingaddress": "KH4QkUCeLv7in7746Ujs35HKbJto579Fxi",
       "collateraladdress": "KHGJCw7wedQEkfP4QUSG8Hp4NuZQes8ueP",
