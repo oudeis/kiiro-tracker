@@ -1,7 +1,119 @@
 Total Masternodes:
+724
 
 Masternodes by Status:
+    706 ENABLED
+     18 POSE_BANNED
 
 Payees with More Than 1 Masternode:
+     19 KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3
+     10 KJDyY5HcERaimemGnjKTWXoVw215m6Ja9R
+      9 KVjDDQGnMzBumpZu3vRcQYcXpW7ft9UoWo
+      5 KVQ8SUvTmY3xZNUuvS1CAn5eEuWzDbdFXN
+      5 KQyymnAaMK3YSf3dtcuD3k7bT2jYA8aESh
+      5 KQYLdWPG1mr15wWBzzicqowyxZreUWoLwt
+      5 KFk4RfETfAJP8tkagcBw2yTpoWYk2tfQD5
+      5 KAfPiJRURwgvYmnUPtKmTiyJHKwVMQR7nh
+      5 K9gjeA54kBK1bTy7FGjY1dJQ6y2F1KwCtF
+      4 KWDWG8ViwtJGnhsKHMHdHMf2YqSuqB7ff7
+      4 KVhgb1Hk9ztzmnJB1K42L74y1z4sn9GLqQ
+      4 KTgrjYGJYGzNZKVuSvBNGcUWE7qfBdUzka
+      4 KN8CKikRo4xUxoBk8CSaHqGuQYGf4HWkgQ
+      4 K8CW2aEtH1fUtPvHSENCbySpFxJJ2vzMoR
+      3 KTpUuTFvEoLEWyGHksXBU4xAgX7nJaG57k
+      3 KRu1LekVnz2i5P4cSXk5iwKmdPJweqnnMD
+      3 KHXWMiiQXUHVHvZtAPBZYwqDm1NE3WNRJW
+      3 KGWUUJYoLzUes7uJvtmzoDex5nkKkSmPYX
+      3 KGLt3GQC37rKCkMyzvwdfcj9biXPhW6biT
+      3 KFbfuw2TtuefBkUe2ovqTNYWwSYnNLmKQA
+      3 KB7zhKw1NvXBCfLG2F5i9kB5byatKwNcce
+      3 K9WhNR5MCAALE1Hw3B1nx32bvYhFuc454w
+      3 K7p7cDo59VffMww97wsjxz96fzH6mMqCwR
+      2 KUtuqi5wLV7GFbuxxWH9theGNb4BW4RkzL
+      2 KUMND7Sd8UnS47TudrRTBxmYxnKrn88c8t
+      2 KUBHBcABkCs8bW694CQx77MhCD2sU7n4tN
+      2 KTxF8moC1855zZZvFhAAeLN27BBiT24CZ4
+      2 KPiyiHj3MpZuD4qFNjPjj1b2SpkpkEewkv
+      2 KKY4kYPCkhMMgtUgV5tAEFKbViZnfwjred
+      2 KGdEWDud6QeSXjTSs3dJ6zF6EqTi6avYPX
+      2 KFsRxHQVvZTQRLCfvAMs5rqi1Z8oN7m6eY
+      2 KEjK6mbYZqQaHAAKk5c1v6LbaedZKkeBzX
+      2 KETfkR17eo2usG9LBAcqLhU1U5H1yerrnq
+      2 KDrPETBDH4ue3uoRUc7mpsdghWoVmfTCCm
+      2 KDY83rMYMW3v61d8SeYXR9KooyGdCxauap
+      2 K87NxAoDox7BoeCdo46pBAF6i9L1zQFPad
+      2 K7V9VH4supMgdJBfCuNrD77Xmsqf44hk5Z
 
 List of Masternodes with Status Other Than 'ENABLED':
+{
+  "proTxHash": "cd99953502f38a86af41fabbb68fb5115f4133f73ddddaf3e8b1c3c3cbb3eb7a",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "d9d72ff1f649481c90236f323e9f6169dd7a5b491f901c3e96ecb759f71f479d",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "18e6f498e1619eb0e4c3c0639f5beb7f2a0b5bc4b26e102e260a842557928a03",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "189537ec4c994a9778dae8e8566d07c6e4e61e16513d8d74a462b8a8cd92a27c",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "52cb7c3170650845e79a4ec2be7b3add669cf572a776bd9d87e097541e7418a7",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "c99ebc21cb6f2bd2e2a8d57b6ed900104c823cfdbbd442d5771d08edb6360875",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "1413e1cf081f52233c7967cb15ff25d135e18bdcadcd3878d8525ce0b7372a44",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "1aac4bedfce426e5731f0a942c1b05092c15b5490ab5b989607659a3aedbb3e2",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "7714716836664d26faa2099f6f4b89bbf3651ac02c0464afd5c28c2b45300f9b",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "20c7a296ea0ae0d39ec569cedbac3aa51c5d352f0f198f43fd1e26d2acf91942",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "a869fc5360f43f87af9df37eb8629fc6021a367abc4bc49eb254f2b6ece0d4ce",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "fb16a529a6df479d0a0b0529befbe5c155569df5fd40ab8e17d5378b8718bf5b",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "299de51ea1403462f9aa9de1a25ffb32a058e857763e365cfefa16e255a3a219",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "2b747e7717c26248b13c45a88622221449c9499bb3d12aced03835f02c50acf0",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "b67fac2e19ee6f56f0f95890ae8ce994abdec7e4c9503c83d365ab0f3196b96a",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "3242581e855eaf59ffbf85f1beee7e6c2b68c9298a387fa10f30f0f639e8d915",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "a142e8a8c17bed8027ece85fc86b26b66fce279da28eeeb28b215081de373ccf",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "9ec1eae641171350ed7ce7f0deac1e14bfd01c24830017682236cff25c7acf50",
+  "status": "POSE_BANNED"
+}
