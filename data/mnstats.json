@@ -1,17 +1,17 @@
 {
   "stats": {
-    "enabledMn": 819,
-    "xeggexKiiroPrice": 0.15,
+    "enabledMn": 820,
+    "xeggexKiiroPrice": 0.14,
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": 0.7,
     "mnEstKiiroPerDay": 12.6,
     "mnEstKiiroPerWeek": 88.2,
     "mnEstKiiroPerMonth": 378,
     "mnEstKiiroPerYear": 4599,
-    "mnEstKiiroIncomePerDay": 1.89,
-    "mnEstKiiroIncomePerWeek": 13.23,
-    "mnEstKiiroIncomePerMonth": 56.7,
-    "mnEstKiiroIncomePerYear": 689.85,
+    "mnEstKiiroIncomePerDay": 1.76,
+    "mnEstKiiroIncomePerWeek": 12.35,
+    "mnEstKiiroIncomePerMonth": 52.92,
+    "mnEstKiiroIncomePerYear": 643.86,
     "estRoiDays": 79.4
   },
   "masterNodes": [
@@ -352,18 +352,6 @@
       "pubkeyoperator": "942444f77a335b58d971a0756bcfcfd07f7f766e05a39e0d6effa4eafd36dc8927bfa3eb5521d5a16b79db46ed784369"
     },
     {
-      "proTxHash": "519ec3ce7eb18ca656e1b5ab770e1a4f8250decd7a87e02cfddcff1a1ecbf9cc",
-      "address": "167.86.112.151:8999",
-      "payee": "K7omKBQpsNvnjCkxtAaX9e4brcqRyFrLoi",
-      "status": "ENABLED",
-      "lastpaidtime": 1697586594,
-      "lastpaidblock": 52502,
-      "owneraddress": "KNE2E8U2uhV3Yaks1a17mWrB3NYpFHu49b",
-      "votingaddress": "KUciqXrcP1BQz6RkEksRJFWmXYtX4Ef5fN",
-      "collateraladdress": "K7omKBQpsNvnjCkxtAaX9e4brcqRyFrLoi",
-      "pubkeyoperator": "06749da02d4de69c35856e7c5cb9c8b33c7e3f85d0d4cec8bc5f5060a80d80d3a4348ad380445fd18ad1ea7d6afc27d5"
-    },
-    {
       "proTxHash": "9b06c7e89b92db65b9ffa2044298f71d7f8fd3ad1264f79df7036f2c7f22f7c9",
       "address": "217.23.3.171:8999",
       "payee": "KJDyY5HcERaimemGnjKTWXoVw215m6Ja9R",
@@ -530,6 +518,30 @@
       "votingaddress": "KAi4JXfsNQfCUmm3VGbxAeUTWonQ1toVdC",
       "collateraladdress": "KCkq2syNyyyP8PjvVf3vm9madQwXty39Zd",
       "pubkeyoperator": "944c4e347000edd4e234fb23457336c2390dc10def4d3c5435add86d6f1ba3a7020adb043d1fe331c27409f34b46b7a3"
+    },
+    {
+      "proTxHash": "d0de3c9cd79eb1740607801bd47580bd9f8914ddbd154361289df730224078a6",
+      "address": "173.249.15.232:8999",
+      "payee": "KAjtd8Ar3jyDi67zcvBZhtvC7X5B7huukp",
+      "status": "ENABLED",
+      "lastpaidtime": 0,
+      "lastpaidblock": 0,
+      "owneraddress": "KHjWKjf3XNh6Z5CcvL2F3phgBcmXUPzTec",
+      "votingaddress": "KMuK696cHmGo2cbePSGzARruyzVv2ebo3t",
+      "collateraladdress": "KAjtd8Ar3jyDi67zcvBZhtvC7X5B7huukp",
+      "pubkeyoperator": "97ffc44eb1a8824d7450649e2d07d03607c76e798c5aeb05e51f194aabc2aac13cde65c8732970f004cb1aed26c040e9"
+    },
+    {
+      "proTxHash": "519ec3ce7eb18ca656e1b5ab770e1a4f8250decd7a87e02cfddcff1a1ecbf9cc",
+      "address": "167.86.112.151:8999",
+      "payee": "K7omKBQpsNvnjCkxtAaX9e4brcqRyFrLoi",
+      "status": "ENABLED",
+      "lastpaidtime": 1697586594,
+      "lastpaidblock": 52502,
+      "owneraddress": "KNE2E8U2uhV3Yaks1a17mWrB3NYpFHu49b",
+      "votingaddress": "KUciqXrcP1BQz6RkEksRJFWmXYtX4Ef5fN",
+      "collateraladdress": "K7omKBQpsNvnjCkxtAaX9e4brcqRyFrLoi",
+      "pubkeyoperator": "06749da02d4de69c35856e7c5cb9c8b33c7e3f85d0d4cec8bc5f5060a80d80d3a4348ad380445fd18ad1ea7d6afc27d5"
     },
     {
       "proTxHash": "47d2dd07e6dc7d230c49eb46e033f024d7cd26a9145ee0a25c4f25830914426e",
@@ -1640,8 +1652,8 @@
       "address": "94.156.144.85:8999",
       "payee": "K8f84xMqJz9Bg56J9Rdpy1M4d3JbyZWQtL",
       "status": "ENABLED",
-      "lastpaidtime": 1697495878,
-      "lastpaidblock": 51935,
+      "lastpaidtime": 1697634775,
+      "lastpaidblock": 52736,
       "owneraddress": "KRC1LTmMoVkPK2XvJgsWafrSqSi5EdhCns",
       "votingaddress": "KRC1LTmMoVkPK2XvJgsWafrSqSi5EdhCns",
       "collateraladdress": "KHEtzMDJws1TAPHVAvk7DjWsjoCzmkfBdE",
@@ -1976,8 +1988,8 @@
       "address": "62.171.132.116:8999",
       "payee": "KFXvKAXXSkgAXaranESfrRwMu6ToYaHcEK",
       "status": "ENABLED",
-      "lastpaidtime": 1697495863,
-      "lastpaidblock": 51934,
+      "lastpaidtime": 1697634592,
+      "lastpaidblock": 52735,
       "owneraddress": "KKf1XSAEepbParLcsmfomgynfs2T4kmKie",
       "votingaddress": "KKf1XSAEepbParLcsmfomgynfs2T4kmKie",
       "collateraladdress": "KQvnRovez9xVPzD1sx1eHQ7afEpoxsyo5Y",
