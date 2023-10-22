@@ -1,9 +1,9 @@
 Total Masternodes:
-941
+942
 
 Masternodes by Status:
-    895 ENABLED
-     46 POSE_BANNED
+    892 ENABLED
+     50 POSE_BANNED
 
 Payees with More Than 1 Masternode:
      19 KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3
@@ -129,6 +129,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "6e5a04463e94aba2f00fde226e49e62eda91f9c7c5d922e6dd424a5fefe66d8b",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "faa305ab2be5c1d8cd6e5777baee6ff56df2c567eeb46873cc7d8028945a0484",
   "status": "POSE_BANNED"
 }
@@ -201,6 +205,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "75ca6528674442c764f69258ddda4f4ed1ccb90b4818ba6aa8cd63564e14e39b",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "9ea4930c90ce8403098483533befd426c4638595647770a27a1b2a20b08914b0",
   "status": "POSE_BANNED"
 }
@@ -210,6 +218,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "30d60365204420808e0e1747b4afb5840aa50ee1113ac8ec6cfb5f7548778dc3",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "00983965f94447567abff42cd910331f0ac3922b9364106021b5312d17cc0996",
   "status": "POSE_BANNED"
 }
 {
@@ -226,6 +238,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "bb3bde96ce3f2a7e9932eec5792816cb0380b9200d215b4d6464aec567df3914",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "beb96ab213f74857b6677a41f10ffa624326e671630eafa7e7508d59dff12b18",
   "status": "POSE_BANNED"
 }
 {
