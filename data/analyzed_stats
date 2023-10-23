@@ -2,8 +2,8 @@ Total Masternodes:
 944
 
 Masternodes by Status:
-    893 ENABLED
-     51 POSE_BANNED
+    886 ENABLED
+     58 POSE_BANNED
 
 Payees with More Than 1 Masternode:
      19 KEJ3qbfLj6p992ejv8dkeYBLHnVrf4fzc3
@@ -81,6 +81,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "476b0b8ee2e1bdba846b6f6d93a71856e514fae11919aed3a09383e46200666a",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "ab065fd65362738b5dbd87ac68d86f6a6dfeaffa960440662aa78ee7fbc536fa",
   "status": "POSE_BANNED"
 }
@@ -121,6 +125,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "0559c82a5d42d5ae442084a43821a978cb69854bd63932ba86021b9c5767060f",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "a2cdf7921a1cc4d522c7331031880267398d09721c96e33a8ca1b19f0f843910",
   "status": "POSE_BANNED"
 }
@@ -134,6 +142,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "faa305ab2be5c1d8cd6e5777baee6ff56df2c567eeb46873cc7d8028945a0484",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "5fdcd740fad0c047a0b792d2d39048b183bb85b465a126ade8f3f3165faa699a",
   "status": "POSE_BANNED"
 }
 {
@@ -209,6 +221,14 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "5a8c10258f9842e81dbda644d99902fee566ddba60b0238e51bf503725738e7b",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "5e21bd27feacebecdfa23b990ec46875b9521e7b9eeecefd2a1d3f8e9e6147d8",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "a921512dac1d41b4d9f9ab12548027e7c2dca77063603f71f1d893e3f75cf4b1",
   "status": "POSE_BANNED"
 }
@@ -233,6 +253,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "fd9a4dc537e157005315ee5efc0c957203c8609940a435cd870b717177cb4b01",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "18637a8e9d2798ee0ee0967bcdb0d1bf77299dabc1daafba9f01df4a0e5bce9f",
   "status": "POSE_BANNED"
 }
@@ -242,6 +266,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "beb96ab213f74857b6677a41f10ffa624326e671630eafa7e7508d59dff12b18",
+  "status": "POSE_BANNED"
+}
+{
+  "proTxHash": "eb2ff3dfadf1f0527c2af7d2ca0d4e4c756ba739b6219c16778a7ec9ad321a39",
   "status": "POSE_BANNED"
 }
 {
