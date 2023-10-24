@@ -1,6 +1,6 @@
 {
   "stats": {
-    "enabledMn": 913,
+    "enabledMn": 912,
     "xeggexKiiroPrice": 0.32,
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": 0.63,
@@ -446,18 +446,6 @@
       "votingaddress": "KJ6AJbwTjEeS5G5xypyjZSqLSLpA7HQq2a",
       "collateraladdress": "KUUccAwDz9XV8vPiiZbtfWnYK1tTA9ePyc",
       "pubkeyoperator": "96bc3dcfdfe81bfadec905b4a446162a1e4b18be1f1dd58535b79c13d4181fd54fefeea68b0a862e3ea11c9e1535beec"
-    },
-    {
-      "proTxHash": "fa0d107a57e509aa10d339926074524d57d18e80144936eda3e0afef8c7d98d7",
-      "address": "91.92.136.139:8999",
-      "payee": "KSuf1pJPXyXeTuQHuD41PnsG8SBdT5vJXR",
-      "status": "ENABLED",
-      "lastpaidtime": 1698124087,
-      "lastpaidblock": 56259,
-      "owneraddress": "K8RN5Ns3VTqGFSejePNGZt1B9zAShqVtug",
-      "votingaddress": "K8RN5Ns3VTqGFSejePNGZt1B9zAShqVtug",
-      "collateraladdress": "KHdjWQ8FHToFrQeNjdHXS8yryJkC6qwESn",
-      "pubkeyoperator": "8d4ad1c6f808f94d01bf652cd9d567ebec1e50b066cbae6be9a21f7aa57d0e93326f6991f57e71c082ddf60f2a7adbbd"
     },
     {
       "proTxHash": "dbbf86b8cd446f97c4f9d06c8b21a183de985e39c2cacb815cfafae5a3ce3172",
@@ -10088,8 +10076,8 @@
       "address": "173.249.12.82:8999",
       "payee": "KDGbZtgcV9eeyfhWjq8qtmZhEGK8rrcGVf",
       "status": "ENABLED",
-      "lastpaidtime": 1698039332,
-      "lastpaidblock": 55656,
+      "lastpaidtime": 1698165007,
+      "lastpaidblock": 56533,
       "owneraddress": "K7UpuSDXe8gVL5kNSjm3zLPgxzzWPzh8P8",
       "votingaddress": "KAFCWoYvcNDxTFSGVWV7iJoAqz36ebPN6N",
       "collateraladdress": "KDGbZtgcV9eeyfhWjq8qtmZhEGK8rrcGVf",
@@ -11444,8 +11432,8 @@
       "address": "217.23.3.91:8999",
       "payee": "KJDyY5HcERaimemGnjKTWXoVw215m6Ja9R",
       "status": "ENABLED",
-      "lastpaidtime": 1698039227,
-      "lastpaidblock": 55654,
+      "lastpaidtime": 1698164215,
+      "lastpaidblock": 56532,
       "owneraddress": "KVfywttfSbgRrfsBxMBKktDF5kR2eJQjhN",
       "votingaddress": "KVfywttfSbgRrfsBxMBKktDF5kR2eJQjhN",
       "collateraladdress": "KMPzXwkxdjoLRkBYv9XhGkNofoge2om7Hc",
