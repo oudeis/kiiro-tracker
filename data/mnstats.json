@@ -1,6 +1,6 @@
 {
   "stats": {
-    "enabledMn": 1046,
+    "enabledMn": 1047,
     "xeggexKiiroPrice": 0.22,
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": 0.55,
@@ -248,8 +248,8 @@
       "address": "71.77.134.250:8999",
       "payee": "KF5EL4tT8aFAJNsp2Z1hQQpiz8k8G6rG6c",
       "status": "ENABLED",
-      "lastpaidtime": 1698785570,
-      "lastpaidblock": 60607,
+      "lastpaidtime": 1698943303,
+      "lastpaidblock": 61614,
       "owneraddress": "KUbA47NKgR1i2UT43mvoa1Kqb8XTZy2dyn",
       "votingaddress": "KUbA47NKgR1i2UT43mvoa1Kqb8XTZy2dyn",
       "collateraladdress": "KV4poJiXSYvVayGmD1xoF7ANRUtnG2247H",
@@ -1688,8 +1688,8 @@
       "address": "173.249.20.101:8999",
       "payee": "K8NG11GxJf8GazL12WbCbkcKpgC3UDXeNr",
       "status": "ENABLED",
-      "lastpaidtime": 1698785689,
-      "lastpaidblock": 60609,
+      "lastpaidtime": 1698943521,
+      "lastpaidblock": 61615,
       "owneraddress": "KM5Um2hRugv8h6ooizzHvQwBwdUY4UYY7u",
       "votingaddress": "KM5Um2hRugv8h6ooizzHvQwBwdUY4UYY7u",
       "collateraladdress": "KPpDk8cZ3PoqjpeeE7J6yF4MPuVPGqxfza",
@@ -10994,6 +10994,18 @@
       "votingaddress": "KQNmwtEiUUib2tD1PvKrDiLJdboYwDfK4T",
       "collateraladdress": "KRjefckUCknRKrGQoQeHEGQPVDQycfJZSt",
       "pubkeyoperator": "90380deee3d32f6c9bb5434829efa60debdc8e55cb7d1fa24394c74673a441adf666c202e6f019c176b9b09f1f4782bc"
+    },
+    {
+      "proTxHash": "13baa9f65932f841160aefb4b8cc5afbe40c66f09d2d49268e514e94a5a29d6a",
+      "address": "167.86.110.168:8999",
+      "payee": "KVZPBHHWQjRKjG9mtyahtgg4LcZ33sfg2d",
+      "status": "ENABLED",
+      "lastpaidtime": 0,
+      "lastpaidblock": 0,
+      "owneraddress": "KHPtxGUJuMxJLvXcxHFWPS8rrkh935artV",
+      "votingaddress": "KHPtxGUJuMxJLvXcxHFWPS8rrkh935artV",
+      "collateraladdress": "KVZPBHHWQjRKjG9mtyahtgg4LcZ33sfg2d",
+      "pubkeyoperator": "83a3dc56c33d9f8d8883fa0255dfef9a35962376272b187acbf0d9aaaa1b5c70c485eee70e418273e87410c6f48fce4d"
     },
     {
       "proTxHash": "5db053614f044694603945c3346b794c22c5fe415fd6783783fa6ec32c2b42a7",
