@@ -81,15 +81,15 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "19b9e56b0ae535df1ff7670b7fcafcdf5dca5ed3f6865d2a06d9287d334f1eaf",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "92a955ca0d50aae787fac80af9cbfc459780b6acc32e92444f3f36429410f1b4",
   "status": "POSE_BANNED"
 }
 {
   "proTxHash": "c614084b54711b5b7c3118a67f4b976c9131acfcd24b03f328598fbda631df0b",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "1856f752f515dfee330ab9826de3e46b50b5f053291ed7bd51b6ab759f296fd0",
   "status": "POSE_BANNED"
 }
 {
