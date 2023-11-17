@@ -1,6 +1,6 @@
 {
   "stats": {
-    "enabledMn": 1163,
+    "enabledMn": 1162,
     "xeggexKiiroPrice": 0.4,
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": 0.5,
@@ -488,8 +488,8 @@
       "address": "149.50.134.148:8999",
       "payee": "KB7zhKw1NvXBCfLG2F5i9kB5byatKwNcce",
       "status": "ENABLED",
-      "lastpaidtime": 1700099708,
-      "lastpaidblock": 69304,
+      "lastpaidtime": 1700259266,
+      "lastpaidblock": 70446,
       "owneraddress": "KMqK7RYamwiQaLxgbRHkX9XGZC3rqu1hcr",
       "votingaddress": "KMqK7RYamwiQaLxgbRHkX9XGZC3rqu1hcr",
       "collateraladdress": "KU9PKwePisazhUE7RpPNqtPLszjQQfmFdt",
@@ -5612,8 +5612,8 @@
       "address": "91.219.148.251:8999",
       "payee": "KBrygBnKWB1TywXzkiMbvkaakofmvCMFFj",
       "status": "ENABLED",
-      "lastpaidtime": 1700099899,
-      "lastpaidblock": 69306,
+      "lastpaidtime": 1700260154,
+      "lastpaidblock": 70448,
       "owneraddress": "KRUF7YVTbGZ6FLPgtY7dyapTbQau3MGKLd",
       "votingaddress": "KRUF7YVTbGZ6FLPgtY7dyapTbQau3MGKLd",
       "collateraladdress": "KCt3N32WhdjLtE8nBLtq3wvbHSWWGJ7QYJ",
@@ -11428,6 +11428,18 @@
       "pubkeyoperator": "17dd51b71e1a2e9b59778db559fcc7a1a9e9f54c57d975e36a58976b53168971f376bb21b34eb0d1a93d5d30dd210f08"
     },
     {
+      "proTxHash": "f0e22d2391722b27707a1afc3620ef91df55e2affd963169c02130c56782363f",
+      "address": "1.12.224.229:8999",
+      "payee": "K8GQF6dB9iTkdUy5XcWRvEzw6j3riMfdDo",
+      "status": "ENABLED",
+      "lastpaidtime": 1700251328,
+      "lastpaidblock": 70374,
+      "owneraddress": "KBemngEVbLaEv4nqkoi3ZFwioZyLFAkXGX",
+      "votingaddress": "KBemngEVbLaEv4nqkoi3ZFwioZyLFAkXGX",
+      "collateraladdress": "K8qcumyopAHoBrj84b8byDuzrBxXvLFcyf",
+      "pubkeyoperator": "0615aff18d2faee44af3a75d302a13fae9d6e5f5d4f623b85550ba427eeffd4647d73e76d2ad6f5236e093f2127a5b02"
+    },
+    {
       "proTxHash": "10853bd93c0eee30afafebce60831c7404aacc539d4d9737b3c6248d223631d0",
       "address": "114.32.161.247:8999",
       "payee": "KKihV7yYTxnexo3hXugDRV7EEnUHwcZ3Hq",
@@ -11666,30 +11678,6 @@
       "votingaddress": "KPQymMoAiERrUpQMQ24DFNiVG8ZoiAqivP",
       "collateraladdress": "KU46kSkLwTKJxsvPsfKtcKRyuguq1ikv1e",
       "pubkeyoperator": "911795cf377e92ecee1dbb8bd5308ae19256b2e61348c0d077904faa1b0a1589a5c070daf66e2a5f20bb5c7bafa3c1c2"
-    },
-    {
-      "proTxHash": "a5d0e978fbba7790f91ed1aed53535420c6bd1e90cb99cf5376b3299a4bb940c",
-      "address": "167.86.95.13:8999",
-      "payee": "KSyxWSKxTHfVsKdqfQ7ZutqPckJxMRWEcT",
-      "status": "ENABLED",
-      "lastpaidtime": 1700244730,
-      "lastpaidblock": 70318,
-      "owneraddress": "K85nQa3zzhfnzn4awjHCXxn45eNmn5w1Li",
-      "votingaddress": "K85nQa3zzhfnzn4awjHCXxn45eNmn5w1Li",
-      "collateraladdress": "KWQG25AyznshwzWNk8Q4PHXDEy8KoLfbki",
-      "pubkeyoperator": "0f33bc9a3218c043120e89b41597fd995654ebb9ee6ff22ca9100f46f4e0738c21753958edfbad06b5401919af19d21c"
-    },
-    {
-      "proTxHash": "f0e22d2391722b27707a1afc3620ef91df55e2affd963169c02130c56782363f",
-      "address": "1.12.224.229:8999",
-      "payee": "K8GQF6dB9iTkdUy5XcWRvEzw6j3riMfdDo",
-      "status": "ENABLED",
-      "lastpaidtime": 1700251328,
-      "lastpaidblock": 70374,
-      "owneraddress": "KBemngEVbLaEv4nqkoi3ZFwioZyLFAkXGX",
-      "votingaddress": "KBemngEVbLaEv4nqkoi3ZFwioZyLFAkXGX",
-      "collateraladdress": "K8qcumyopAHoBrj84b8byDuzrBxXvLFcyf",
-      "pubkeyoperator": "0615aff18d2faee44af3a75d302a13fae9d6e5f5d4f623b85550ba427eeffd4647d73e76d2ad6f5236e093f2127a5b02"
     },
     {
       "proTxHash": "f111f04e4a84634577e1bfa0cdb8cc140832abcc7cc993d6431cce4415008364",
@@ -12920,8 +12908,8 @@
       "address": "149.50.129.23:8999",
       "payee": "KDyMAYXtZmk3aZkR26sfDUkrDQJyKF4nfb",
       "status": "ENABLED",
-      "lastpaidtime": 1700099876,
-      "lastpaidblock": 69305,
+      "lastpaidtime": 1700259798,
+      "lastpaidblock": 70447,
       "owneraddress": "KNnMjJx8Dqne9g4dEAAz9sJ8grCzKGVWC2",
       "votingaddress": "KNnMjJx8Dqne9g4dEAAz9sJ8grCzKGVWC2",
       "collateraladdress": "KNrpENFHV1fudECmCX23cC1GWyyo1r5DZL",
