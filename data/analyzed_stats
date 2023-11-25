@@ -1,13 +1,13 @@
 Total Masternodes:
-848
+845
 
 Masternodes by Status:
-    818 ENABLED
+    815 ENABLED
      30 POSE_BANNED
 
 Payees with More Than 1 Masternode:
      18 K7oNYzHfWCebbrtRA5vqoGMD1siGJMozMF
-     13 KNjZujPuboTfspX4UQuHAjvg7aymZGaekQ
+     12 KNjZujPuboTfspX4UQuHAjvg7aymZGaekQ
      12 KL25DDKJ98iCoitUFcm1o9iKjJ5bZYfAdc
      11 KVjDDQGnMzBumpZu3vRcQYcXpW7ft9UoWo
      10 KR84kDMUUEezCLt4sSwS8wWcYNRuTfQ3yb
@@ -35,6 +35,7 @@ Payees with More Than 1 Masternode:
       3 KFsRxHQVvZTQRLCfvAMs5rqi1Z8oN7m6eY
       3 KDCJtYV84m5Tma3JrgAYsqpMfKtNXqg3pB
       3 KD9pRAjnSDZehcxvNeDMVJWodm8D1aYXNR
+      3 KALLr229itHcYwcTCGe8hXfvB9CiCsALVb
       3 K9gjeA54kBK1bTy7FGjY1dJQ6y2F1KwCtF
       2 KVrcWVeyUaTBF8Avvp3d8GxpCsPVdkZx8u
       2 KVhgb1Hk9ztzmnJB1K42L74y1z4sn9GLqQ
@@ -54,7 +55,6 @@ Payees with More Than 1 Masternode:
       2 KETfkR17eo2usG9LBAcqLhU1U5H1yerrnq
       2 KDrPETBDH4ue3uoRUc7mpsdghWoVmfTCCm
       2 KBdcFkbbe2pMqpYeMJEVC31GfuQBMWiRoW
-      2 KALLr229itHcYwcTCGe8hXfvB9CiCsALVb
       2 K96kbZVbta49GZ2bZDNxW4zxJNaLAq8ypx
 
 List of Masternodes with Status Other Than 'ENABLED':
