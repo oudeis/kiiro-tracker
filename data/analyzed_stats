@@ -1,9 +1,9 @@
 Total Masternodes:
-724
+723
 
 Masternodes by Status:
-    375 ENABLED
-     62 POSE_BANNED
+    369 ENABLED
+     67 POSE_BANNED
     287 UNKNOWN
 
 Payees with More Than 1 Masternode:
@@ -137,12 +137,20 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
+  "proTxHash": "9b5a3f216a5e174e8e8c27f4fbc45ce9cf1dabf665c6b39c3e8abd59a2164c5c",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "26ea367e732598668095a1492c597a9d709b63d1865931fcb5a4f00ab94645ea",
   "status": "UNKNOWN"
 }
 {
   "proTxHash": "86373b38a04aacca49e85bc10ec06809e2b83955847a394a7a6741fd13bf5b22",
   "status": "UNKNOWN"
+}
+{
+  "proTxHash": "d98322f0b3574702a86b930360024309ac968ed2b523f8b0d0c1c96c7115db54",
+  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "92a955ca0d50aae787fac80af9cbfc459780b6acc32e92444f3f36429410f1b4",
@@ -273,6 +281,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "fb7877c7402ea4ba51a3b01fcac5642980dc300ad747d1c262d97c69be8a3c5f",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "327968c7c5987e2321d02b3ff3c508f8ff958e2953f070d5ca6673a5509c191b",
   "status": "UNKNOWN"
 }
@@ -351,10 +363,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "04f4218686242759e2d1c697a98379a06e05f7188be5b9f9cea0f3271b545922",
   "status": "UNKNOWN"
-}
-{
-  "proTxHash": "0888b7f3e614c19510fb1cc6c5be023a6eb641a6dd3c4d0b173796c2d75ad697",
-  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "0eb3a8a1c6b9029db92c8ddebbcd93eca30081eb9a08de7d9a6dfe45b8ca5ab8",
@@ -477,6 +485,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "ed74307027c50adba0773e207602f7cc6ccdd16c57eadb0a96cd04a416ca072b",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "e263411c8e2b1e8f2355e70965325ea8a0cb776a6cf25071d094b6d6e49f88e7",
   "status": "UNKNOWN"
 }
@@ -539,6 +551,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "9cd828103a1ef912f625c5dca924b859933fdf8653f72776f41310a139a88575",
   "status": "UNKNOWN"
+}
+{
+  "proTxHash": "c602687328efde2740ae850ee134a57239f414d494f9350fd4a363d76b0c987a",
+  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "19eeca34bc7bc0183e681b077f7ae4a3abf2717ca51f7c5e6ad5cf24b4ea89d5",
@@ -627,6 +643,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "eba185b9305b43ad0195dcdaa96a659ab89a60aa831813b01c35a337127a6a03",
   "status": "UNKNOWN"
+}
+{
+  "proTxHash": "d53d54661baba5fadb64a062c24f85e7d43031d2fa1f532c33d8aa4f37c28b69",
+  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "8bd1f3a4215dbbb4f8b276433e70b2cf300c1f35fb6a9ee43931b9104857ad4e",
@@ -873,6 +893,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "93306816b55ef8f47698f9017ce458bd73333f59d204b854ea1919209dcb8b83",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "994afe6924607f5fe68371466b05ecc5beb68043888eead5182c9728cff28ce3",
   "status": "POSE_BANNED"
 }
@@ -937,10 +961,6 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
-  "proTxHash": "30e768ae48db65865d915baedb5e7834db9b1015c24a330a06ceb381206ff0e3",
-  "status": "POSE_BANNED"
-}
-{
   "proTxHash": "0838582a690dfb881f2cd4a04ab7acb2ca57d08f21d2ea906211318c5712538d",
   "status": "UNKNOWN"
 }
@@ -983,10 +1003,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "f98d59e0d1c3eef8004606b30c12e5a8833af73f95d077cea7ff925c1ac8913e",
   "status": "UNKNOWN"
-}
-{
-  "proTxHash": "3e53a2a6c520754afa1830eee419f34201d5455bdc657bb77f660cee101eb8aa",
-  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "5c58cd5d003d19c796dcc309a0a6a5f0aaa63cf0995c12d1351484aabdad4c59",
@@ -1399,6 +1415,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "9ec1eae641171350ed7ce7f0deac1e14bfd01c24830017682236cff25c7acf50",
   "status": "UNKNOWN"
+}
+{
+  "proTxHash": "6d972172ca1b7563beefafd5be5995c373144a196f5d92a640cf612f851722da",
+  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "49c800dc5e67c1befa02cae3d0bdeb16ac7307ece13d9c91875dc41f58770e92",
