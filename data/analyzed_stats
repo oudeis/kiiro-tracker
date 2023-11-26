@@ -1,10 +1,10 @@
 Total Masternodes:
-729
+725
 
 Masternodes by Status:
-    383 ENABLED
+    382 ENABLED
      34 POSE_BANNED
-    312 UNKNOWN
+    309 UNKNOWN
 
 Payees with More Than 1 Masternode:
      18 K7oNYzHfWCebbrtRA5vqoGMD1siGJMozMF
@@ -40,7 +40,7 @@ Payees with More Than 1 Masternode:
       2 KUtuqi5wLV7GFbuxxWH9theGNb4BW4RkzL
       2 KTxF8moC1855zZZvFhAAeLN27BBiT24CZ4
       2 KRu1LekVnz2i5P4cSXk5iwKmdPJweqnnMD
-      2 KQYLdWPG1mr15wWBzzicqowyxZreUWoLwt
+      2 KKXJKvf8mKF5HpboaR1nsHxsQPRQEcg1Fm
       2 KKNUVAAk2XPofZHZtAaJAjkLHurjhXqRys
       2 KJqDu6hjY4bwkH9VrKkhBMaUzCzGMME6Uk
       2 KHzk61jwEw67jGzx7Y9to3xdYU8P17cYWN
@@ -214,10 +214,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "4b4012d285256250aca2904b1a575f75564f8cd2a667bf970b889b727a4e8683",
   "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "c0206e477c62a70f424d7704a0df5f9756f1d556e2aa613e2a2432d949ed5f4c",
-  "status": "UNKNOWN"
 }
 {
   "proTxHash": "5af4d806a715cf0c2b507534b9802b1e19e969d7122fc0b49b9b19a06861e362",
@@ -520,10 +516,6 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
-  "proTxHash": "de3b17f9b3faf791209bcd6a32354d2efafb62fd152187861aa865ace9f37d97",
-  "status": "UNKNOWN"
-}
-{
   "proTxHash": "19eeca34bc7bc0183e681b077f7ae4a3abf2717ca51f7c5e6ad5cf24b4ea89d5",
   "status": "UNKNOWN"
 }
@@ -560,6 +552,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
+  "proTxHash": "7714716836664d26faa2099f6f4b89bbf3651ac02c0464afd5c28c2b45300f9b",
+  "status": "UNKNOWN"
+}
+{
   "proTxHash": "b265cb421d49b0c5bdbcc8aadd0ee3f3ad31dcefa178706071048c9e09dad92a",
   "status": "UNKNOWN"
 }
@@ -589,14 +585,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "8a7b2f2de9babacbe89f5617e2a17b59eb65cc42a5331c3a67d3a556467e3689",
-  "status": "UNKNOWN"
-}
-{
-  "proTxHash": "7714716836664d26faa2099f6f4b89bbf3651ac02c0464afd5c28c2b45300f9b",
-  "status": "UNKNOWN"
-}
-{
-  "proTxHash": "cf954492d29489159d5173bfd643460c1447827c9b8b6240953590e1c09fd1a9",
   "status": "UNKNOWN"
 }
 {
