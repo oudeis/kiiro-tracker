@@ -1,10 +1,10 @@
 Total Masternodes:
-681
+680
 
 Masternodes by Status:
-    450 ENABLED
-     45 POSE_BANNED
-    186 UNKNOWN
+    447 ENABLED
+     48 POSE_BANNED
+    185 UNKNOWN
 
 Payees with More Than 1 Masternode:
      18 K7oNYzHfWCebbrtRA5vqoGMD1siGJMozMF
@@ -248,6 +248,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
+  "proTxHash": "8507ddbef53d8cf50806e8f188cec26b58a53545ab552de24d9aaefcd396d359",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "cc525e8675006174d2df7396f4c7a59ba8d0f008edfdd4524e285cc4165c757e",
   "status": "POSE_BANNED"
 }
@@ -329,10 +333,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "656cf9c2b0be9bd3e29d4726b700c41e77104f0c6bdf4fe30a8149e1a1cec2c5",
-  "status": "UNKNOWN"
-}
-{
-  "proTxHash": "3ff19caeae1c7e8226d9e067b87e7dd97527a6ad9fca130a2785e6d73c0420b2",
   "status": "UNKNOWN"
 }
 {
@@ -560,6 +560,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
+  "proTxHash": "08c302a9f075ff5ca5a62cbd998813efad89ebfef7d809ab30251fef87770154",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "f21b8825be9385d3468fb2f8a26726f60cac7c8eca505c9ddff7cde598e09e3f",
   "status": "UNKNOWN"
 }
@@ -617,10 +621,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "93306816b55ef8f47698f9017ce458bd73333f59d204b854ea1919209dcb8b83",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "994afe6924607f5fe68371466b05ecc5beb68043888eead5182c9728cff28ce3",
   "status": "POSE_BANNED"
 }
 {
@@ -872,6 +872,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
+  "proTxHash": "bba380b5cc8fa13baa7868563f02e1ff9a826b62743f1b5090dfc01a6581da37",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "2533a00195c41a8206fca2e98c722a35324120310fcd83280794e821e7dd9021",
   "status": "UNKNOWN"
 }
@@ -954,6 +958,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "9e6f1655dcdca8e96fd119327029487cff6ea9b75f875893047d8622c3216d77",
   "status": "UNKNOWN"
+}
+{
+  "proTxHash": "a17923820cebec155c5f5369e59f390795f08d381351c2b75d234aab56150b64",
+  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "fc8881a2548eb705b61b642c129241d75768d8b7b6b94433a148ad1080699a80",
