@@ -1,10 +1,10 @@
 Total Masternodes:
-708
+706
 
 Masternodes by Status:
     394 ENABLED
-     67 POSE_BANNED
-    247 UNKNOWN
+     66 POSE_BANNED
+    246 UNKNOWN
 
 Payees with More Than 1 Masternode:
      18 K7oNYzHfWCebbrtRA5vqoGMD1siGJMozMF
@@ -31,7 +31,6 @@ Payees with More Than 1 Masternode:
       3 KTgrjYGJYGzNZKVuSvBNGcUWE7qfBdUzka
       3 KSkwb9zDFcLrVpq7aTBDAaTRfGEWbMA6u6
       3 KDCJtYV84m5Tma3JrgAYsqpMfKtNXqg3pB
-      3 KD9pRAjnSDZehcxvNeDMVJWodm8D1aYXNR
       3 KALLr229itHcYwcTCGe8hXfvB9CiCsALVb
       3 K9gjeA54kBK1bTy7FGjY1dJQ6y2F1KwCtF
       3 K829xh5DMbwfwybXK1MzpzJWo5cooRGpaD
@@ -52,6 +51,7 @@ Payees with More Than 1 Masternode:
       2 KFsRxHQVvZTQRLCfvAMs5rqi1Z8oN7m6eY
       2 KFKxM7NuxfFDza67ujvBZx8PtDYqutpdg4
       2 KDrPETBDH4ue3uoRUc7mpsdghWoVmfTCCm
+      2 KD9pRAjnSDZehcxvNeDMVJWodm8D1aYXNR
       2 K8Km79aNcgLZvFrYmArBG3bdyi8Fc4dCzk
 
 List of Masternodes with Status Other Than 'ENABLED':
@@ -122,10 +122,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "7469133c446247150f1111e6c952dce8f99737f35885a546b90e893edf1dd440",
   "status": "UNKNOWN"
-}
-{
-  "proTxHash": "9b5a3f216a5e174e8e8c27f4fbc45ce9cf1dabf665c6b39c3e8abd59a2164c5c",
-  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "26ea367e732598668095a1492c597a9d709b63d1865931fcb5a4f00ab94645ea",
@@ -337,10 +333,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "f088b2998114d0a8fddf4f5d6db9dbbbe5a632f921fc527e9a9231248e1195ce",
-  "status": "UNKNOWN"
-}
-{
-  "proTxHash": "fedfafce3b5ca1590aa96afcd940f429e9551dd3d6fc2bbaca208fef498de924",
   "status": "UNKNOWN"
 }
 {
@@ -1080,10 +1072,6 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
-  "proTxHash": "b67fac2e19ee6f56f0f95890ae8ce994abdec7e4c9503c83d365ab0f3196b96a",
-  "status": "POSE_BANNED"
-}
-{
   "proTxHash": "d05ad1e38631574846135938e4f344b7b7bd9a6b91f302cf81b0b33a1f210d47",
   "status": "UNKNOWN"
 }
@@ -1102,6 +1090,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "c673630856c13cd4fecfeff700a089ddc088b6689715d70598119178afe5a7f8",
   "status": "UNKNOWN"
+}
+{
+  "proTxHash": "b67fac2e19ee6f56f0f95890ae8ce994abdec7e4c9503c83d365ab0f3196b96a",
+  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "91568a570d8dd2f04a34fdd03a98aba78f37db2ad6f305b713c74ba14c194540",
