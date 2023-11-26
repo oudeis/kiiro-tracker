@@ -2,9 +2,9 @@ Total Masternodes:
 698
 
 Masternodes by Status:
-    381 ENABLED
-     68 POSE_BANNED
-    249 UNKNOWN
+    384 ENABLED
+     66 POSE_BANNED
+    248 UNKNOWN
 
 Payees with More Than 1 Masternode:
      18 K7oNYzHfWCebbrtRA5vqoGMD1siGJMozMF
@@ -17,9 +17,9 @@ Payees with More Than 1 Masternode:
       8 KUGcF9Z9UTfHU2hNzzNCfqDkSmWB3QvSsC
       8 KDANgAcrtZUegqAourLrGmipY3wRC5QtbC
       7 KB7zhKw1NvXBCfLG2F5i9kB5byatKwNcce
+      6 KQsSDN946ifAChpSFScBGAHUanKqCrt61j
       5 KU5Agii4xwqzMTP9qVt358BsLD6T7cu1Cx
       5 KQyymnAaMK3YSf3dtcuD3k7bT2jYA8aESh
-      5 KQsSDN946ifAChpSFScBGAHUanKqCrt61j
       5 KGWUUJYoLzUes7uJvtmzoDex5nkKkSmPYX
       5 KDSAGRJroCvZ2FYWqd8yKTdic4UATz27an
       4 KUutbshaV2X1J6cu1hxn4gYG8Dxa82c595
@@ -30,7 +30,6 @@ Payees with More Than 1 Masternode:
       3 KTpUuTFvEoLEWyGHksXBU4xAgX7nJaG57k
       3 KTgrjYGJYGzNZKVuSvBNGcUWE7qfBdUzka
       3 KSkwb9zDFcLrVpq7aTBDAaTRfGEWbMA6u6
-      3 KJuiLcM1LhYBaNSyYsN9GVQKtKai9qAzek
       3 KDCJtYV84m5Tma3JrgAYsqpMfKtNXqg3pB
       3 KD9pRAjnSDZehcxvNeDMVJWodm8D1aYXNR
       3 KALLr229itHcYwcTCGe8hXfvB9CiCsALVb
@@ -43,6 +42,7 @@ Payees with More Than 1 Masternode:
       2 KRu1LekVnz2i5P4cSXk5iwKmdPJweqnnMD
       2 KKXJKvf8mKF5HpboaR1nsHxsQPRQEcg1Fm
       2 KKNUVAAk2XPofZHZtAaJAjkLHurjhXqRys
+      2 KJuiLcM1LhYBaNSyYsN9GVQKtKai9qAzek
       2 KJqDu6hjY4bwkH9VrKkhBMaUzCzGMME6Uk
       2 KJDyY5HcERaimemGnjKTWXoVw215m6Ja9R
       2 KHzk61jwEw67jGzx7Y9to3xdYU8P17cYWN
@@ -242,10 +242,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "2c539e07037f30947c543607cc68a0c94c3dc94ee74d5e6e39dafed614883ca6",
   "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "db215d5d5f15f7a62d5018584b30d983555847ad9d18eaa13ce2369b00f8c7a3",
-  "status": "UNKNOWN"
 }
 {
   "proTxHash": "0665f5d4d515a44fa555e70a017e80309d0c9a58cd2506d8b643cead038d7840",
@@ -1128,16 +1124,8 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
-  "proTxHash": "e2c4aaa838b566cd210a2f009c248098cccbbc366708a0e9b2a8e4209387dd31",
-  "status": "POSE_BANNED"
-}
-{
   "proTxHash": "63560984c099be808b939e20db1027b57873982949638a283379ed22f7943dc4",
   "status": "UNKNOWN"
-}
-{
-  "proTxHash": "83838562d467c38a3dbc901ae7c2c1e17ae903587e58154555e60daac945fc07",
-  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "b8ec1023d121408ecf2fd7a5f51c73b6a74215a9d0c5c77feb0a0e87c7bb79ac",
