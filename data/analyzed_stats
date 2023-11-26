@@ -1,10 +1,10 @@
 Total Masternodes:
-734
+738
 
 Masternodes by Status:
-    362 ENABLED
+    367 ENABLED
      28 POSE_BANNED
-    344 UNKNOWN
+    343 UNKNOWN
 
 Payees with More Than 1 Masternode:
      18 K7oNYzHfWCebbrtRA5vqoGMD1siGJMozMF
@@ -39,6 +39,7 @@ Payees with More Than 1 Masternode:
       2 KVhgb1Hk9ztzmnJB1K42L74y1z4sn9GLqQ
       2 KUtuqi5wLV7GFbuxxWH9theGNb4BW4RkzL
       2 KTxF8moC1855zZZvFhAAeLN27BBiT24CZ4
+      2 KRu1LekVnz2i5P4cSXk5iwKmdPJweqnnMD
       2 KQYLdWPG1mr15wWBzzicqowyxZreUWoLwt
       2 KQDobGyxDGwd5Lqg9MTrwMbHqzessNVL5B
       2 KKNUVAAk2XPofZHZtAaJAjkLHurjhXqRys
@@ -235,6 +236,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
+  "proTxHash": "5af4d806a715cf0c2b507534b9802b1e19e969d7122fc0b49b9b19a06861e362",
+  "status": "UNKNOWN"
+}
+{
   "proTxHash": "f5c1595e167271b7d5626a94e40c39a58a570197dcb1c63ed3ba92341471e930",
   "status": "UNKNOWN"
 }
@@ -261,14 +266,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "d9d72ff1f649481c90236f323e9f6169dd7a5b491f901c3e96ecb759f71f479d",
   "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "a9dffddaa77a2825a8941d5da7b9ba68a6cd3a0d3f2b793c88af04efb83ee499",
-  "status": "UNKNOWN"
-}
-{
-  "proTxHash": "5af4d806a715cf0c2b507534b9802b1e19e969d7122fc0b49b9b19a06861e362",
-  "status": "UNKNOWN"
 }
 {
   "proTxHash": "274bffa5654cf8293be190c5005d8518d5826601fa0e349b74f4f5a432610aa7",
@@ -447,15 +444,15 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
-  "proTxHash": "9a726892a13cc21e1a8d7cc7a06894c575a8bd2ef2283f4350df02db8ddb03b3",
-  "status": "UNKNOWN"
-}
-{
   "proTxHash": "656ac3858806c41213e2f8f73503440ac1162907c56365cd2a2d4c8cb8427b0d",
   "status": "UNKNOWN"
 }
 {
   "proTxHash": "88356d7cf8a8bf63542c116e6e961e6c846956343668644e544732d023d4a266",
+  "status": "UNKNOWN"
+}
+{
+  "proTxHash": "9a726892a13cc21e1a8d7cc7a06894c575a8bd2ef2283f4350df02db8ddb03b3",
   "status": "UNKNOWN"
 }
 {
@@ -1207,10 +1204,6 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
-  "proTxHash": "2b747e7717c26248b13c45a88622221449c9499bb3d12aced03835f02c50acf0",
-  "status": "UNKNOWN"
-}
-{
   "proTxHash": "87bbc925654281601252071881e2b43bc2a6153ccbb0bfba6e55c686a403d3be",
   "status": "UNKNOWN"
 }
@@ -1220,6 +1213,10 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "25197f486d4b946a0ca2fbca5739d2ecd895946296c06804af2a1805f67dd716",
+  "status": "UNKNOWN"
+}
+{
+  "proTxHash": "2b747e7717c26248b13c45a88622221449c9499bb3d12aced03835f02c50acf0",
   "status": "UNKNOWN"
 }
 {
