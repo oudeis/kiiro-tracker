@@ -1,8 +1,8 @@
 Total Masternodes:
-648
+649
 
 Masternodes by Status:
-    487 ENABLED
+    488 ENABLED
      31 POSE_BANNED
     130 UNKNOWN
 
@@ -90,15 +90,15 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
-  "proTxHash": "86373b38a04aacca49e85bc10ec06809e2b83955847a394a7a6741fd13bf5b22",
-  "status": "UNKNOWN"
-}
-{
   "proTxHash": "92a955ca0d50aae787fac80af9cbfc459780b6acc32e92444f3f36429410f1b4",
   "status": "POSE_BANNED"
 }
 {
   "proTxHash": "a7b753910c97f4d341a81505afd9242cd8dee27aacfd5314421df53742a6ad53",
+  "status": "UNKNOWN"
+}
+{
+  "proTxHash": "86373b38a04aacca49e85bc10ec06809e2b83955847a394a7a6741fd13bf5b22",
   "status": "UNKNOWN"
 }
 {
