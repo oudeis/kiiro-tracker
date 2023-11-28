@@ -1,17 +1,17 @@
 {
   "stats": {
     "enabledMn": 490,
-    "xeggexKiiroPrice": 0.51,
+    "xeggexKiiroPrice": 0.57,
     "avgBlocksPerDay": 576,
     "mnEstPayoutsPerDay": 1.18,
     "mnEstKiiroPerDay": 21.24,
     "mnEstKiiroPerWeek": 148.68,
     "mnEstKiiroPerMonth": 637.2,
     "mnEstKiiroPerYear": 7752.6,
-    "mnEstKiiroIncomePerDay": 10.83,
-    "mnEstKiiroIncomePerWeek": 75.83,
-    "mnEstKiiroIncomePerMonth": 324.97,
-    "mnEstKiiroIncomePerYear": 3953.83,
+    "mnEstKiiroIncomePerDay": 12.11,
+    "mnEstKiiroIncomePerWeek": 84.75,
+    "mnEstKiiroIncomePerMonth": 363.2,
+    "mnEstKiiroIncomePerYear": 4418.98,
     "estRoiDays": 47.1
   },
   "masterNodes": [
@@ -254,6 +254,20 @@
       "pubkeyoperator": "058de694c941884a9036ea8e5fbb2d9df6870bb81dad1f4cb36a893e103c58fc6e413ecd68c087389c6e4cd775b2246d"
     },
     {
+      "proTxHash": "31b9ddd5e126c7545d625fd328e57790b4f3739c02de48179399cb341a153687",
+      "address": "37.19.205.152:8999",
+      "payee": "KJDyY5HcERaimemGnjKTWXoVw215m6Ja9R",
+      "status": "ENABLED",
+      "lastpaidtime": 1701140295,
+      "lastpaidblock": 76246,
+      "owneraddress": "KGHC2j9GMRv6eAXHZuaCawiFg6d6nZG4kx",
+      "votingaddress": "KGHC2j9GMRv6eAXHZuaCawiFg6d6nZG4kx",
+      "collateraladdress": "KCG8wu6zPx9z6Rb6mxTCXbcwQ1TFBmheYW",
+      "collateralamount": 2500,
+      "needToUpgrade": false,
+      "pubkeyoperator": "964f4581d1d8e2540b4643ca3508268115b2fc4dd71568a89b026ef5019cb91b67ded4d95f4acdc219ee3403fd71f3b9"
+    },
+    {
       "proTxHash": "0a2b27495b966f5781d05255b18bdd450b2dff7a38f04fae2d7f2d78c12d3fa7",
       "address": "51.89.72.168:8999",
       "payee": "KDANgAcrtZUegqAourLrGmipY3wRC5QtbC",
@@ -422,34 +436,6 @@
       "pubkeyoperator": "0100c8c105deead9535b5866865045f5efdd64b32df55af4144596889d994642da69378bc05d1b0711543985d297cd9d"
     },
     {
-      "proTxHash": "31b9ddd5e126c7545d625fd328e57790b4f3739c02de48179399cb341a153687",
-      "address": "37.19.205.152:8999",
-      "payee": "KJDyY5HcERaimemGnjKTWXoVw215m6Ja9R",
-      "status": "ENABLED",
-      "lastpaidtime": 1701140295,
-      "lastpaidblock": 76246,
-      "owneraddress": "KGHC2j9GMRv6eAXHZuaCawiFg6d6nZG4kx",
-      "votingaddress": "KGHC2j9GMRv6eAXHZuaCawiFg6d6nZG4kx",
-      "collateraladdress": "KCG8wu6zPx9z6Rb6mxTCXbcwQ1TFBmheYW",
-      "collateralamount": 2500,
-      "needToUpgrade": false,
-      "pubkeyoperator": "964f4581d1d8e2540b4643ca3508268115b2fc4dd71568a89b026ef5019cb91b67ded4d95f4acdc219ee3403fd71f3b9"
-    },
-    {
-      "proTxHash": "c5bcc50bbc2fbb2d71bb09cdd79df2321b0f04254e28ce0cee1ed689df334125",
-      "address": "164.90.213.190:8999",
-      "payee": "KHPPvQzAbS81PpVBiKvNw84P7KenChVDyu",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700936787,
-      "lastpaidblock": 74876,
-      "owneraddress": "KWQbsjcePgYGFWc1nZnaKRhQm3XdUvY1Uv",
-      "votingaddress": "KWQbsjcePgYGFWc1nZnaKRhQm3XdUvY1Uv",
-      "collateraladdress": "KJsKpdBeMoTezmapq5piDXxxuVdzJaucSN",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "80aae678cb4ef560b2287ef1f67fd4df67b91156f87001ddb70271406db1b22548906876077e50ba353e3c39e1d31e19"
-    },
-    {
       "proTxHash": "718a04a00a1d654e0ff63c60f2e74611e80e0081c574f9280c36b4b5581a2f3f",
       "address": "167.86.110.13:8999",
       "payee": "KAaAGkP6jJjEVQWPoUetcxNjZDCBTbZ6P1",
@@ -580,8 +566,8 @@
       "address": "124.221.219.139:8999",
       "payee": "KMgH6CQtFfJyFqjiz6R6UvszwHDpt7zUzb",
       "status": "ENABLED",
-      "lastpaidtime": 0,
-      "lastpaidblock": 0,
+      "lastpaidtime": 1701142808,
+      "lastpaidblock": 76263,
       "owneraddress": "K87pV6rJeJcz4xPnCamFnrtEeho4XwANbL",
       "votingaddress": "K87pV6rJeJcz4xPnCamFnrtEeho4XwANbL",
       "collateraladdress": "KAM1DQ8T31YJCf8kVwuHa2e96h4tizCPgg",
@@ -790,8 +776,8 @@
       "address": "212.87.215.65:8999",
       "payee": "KTunDrJPZVjnzhJRjUe7sCHKjiwuCtCm2Y",
       "status": "ENABLED",
-      "lastpaidtime": 1701080164,
-      "lastpaidblock": 75822,
+      "lastpaidtime": 1701143124,
+      "lastpaidblock": 76265,
       "owneraddress": "KDLTec3dQoeGWoviTYGe7xSzfyjDajXxm7",
       "votingaddress": "KDSKPV2Tc5qDbCCEPqbLGUhnpWERdeMUnz",
       "collateraladdress": "KGM6r4Mva4REtrkLS3GpTpUoiXmeDj7yxa",
@@ -1458,6 +1444,20 @@
       "pubkeyoperator": "8c371792d8a1d44b838550afba90a79294389b58bb767651364acbca18498760e762fab256e1615245a643f20587d8ff"
     },
     {
+      "proTxHash": "da4d719b114555cd5ed284aee8ba8110f37861a660063f517d7e15c4cf446824",
+      "address": "81.0.247.192:8999",
+      "payee": "KQsSDN946ifAChpSFScBGAHUanKqCrt61j",
+      "status": "ENABLED",
+      "lastpaidtime": 1701115149,
+      "lastpaidblock": 76061,
+      "owneraddress": "KKRjSncSjCYXfdZvBEzhkXPmxMNvDAnjds",
+      "votingaddress": "KKRjSncSjCYXfdZvBEzhkXPmxMNvDAnjds",
+      "collateraladdress": "KP7hG8obqnv5K3314eHQooe7bUwz7Vsp6n",
+      "collateralamount": 2500,
+      "needToUpgrade": false,
+      "pubkeyoperator": "82b532fddc97975c79bc76bf2938ccfc8e98fd1442cb682d6fcb5a0f3e4a2acf897ab8fefe6e78135bdd82ec9a5d6bf0"
+    },
+    {
       "proTxHash": "327968c7c5987e2321d02b3ff3c508f8ff958e2953f070d5ca6673a5509c191b",
       "address": "144.91.124.20:8999",
       "payee": "KUHiBGwDYb7dgwfC48NShYpbmuq9Nr8rMv",
@@ -1626,34 +1626,6 @@
       "pubkeyoperator": "0080bc9a068e653a81561cf4a8af839e286e6f633fdc8c67771bcf2965851691b332498df4af872e0f6ead0d16a8744b"
     },
     {
-      "proTxHash": "da4d719b114555cd5ed284aee8ba8110f37861a660063f517d7e15c4cf446824",
-      "address": "81.0.247.192:8999",
-      "payee": "KQsSDN946ifAChpSFScBGAHUanKqCrt61j",
-      "status": "ENABLED",
-      "lastpaidtime": 1701115149,
-      "lastpaidblock": 76061,
-      "owneraddress": "KKRjSncSjCYXfdZvBEzhkXPmxMNvDAnjds",
-      "votingaddress": "KKRjSncSjCYXfdZvBEzhkXPmxMNvDAnjds",
-      "collateraladdress": "KP7hG8obqnv5K3314eHQooe7bUwz7Vsp6n",
-      "collateralamount": 2500,
-      "needToUpgrade": false,
-      "pubkeyoperator": "82b532fddc97975c79bc76bf2938ccfc8e98fd1442cb682d6fcb5a0f3e4a2acf897ab8fefe6e78135bdd82ec9a5d6bf0"
-    },
-    {
-      "proTxHash": "ea48a69d0797f063121893e221afa014dbb5726e2034bbfb042d15dbc27e66c1",
-      "address": "164.92.134.60:8999",
-      "payee": "KNRfDXPHDBManszzT2e3FQnwCBisHMuWEP",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700873853,
-      "lastpaidblock": 74362,
-      "owneraddress": "KFDxvLAcfMX3Fn35isuNTtqJHtexjnS6vE",
-      "votingaddress": "KFDxvLAcfMX3Fn35isuNTtqJHtexjnS6vE",
-      "collateraladdress": "KS5o9GMwY3aCG36uzfYsXZBN6K67iYva2Z",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "0cacedb6f3d4d2645241d3dc6dc18e7bbf5bbac42586c9d4fa76779fb3a839f446bfac70e2a6914f669d89886b0d941b"
-    },
-    {
       "proTxHash": "45c67f51c07a0820379685aaa53f1ad45d4f19008838131d5422414a60803794",
       "address": "45.137.66.169:8999",
       "payee": "KKJkoYvdY9WzL6NDGXLViSn96bc73p2kzF",
@@ -1672,8 +1644,8 @@
       "address": "164.68.112.220:8999",
       "payee": "KUDJ8LGzQCtZ9SCafSd9ei2LqvnQdeSTU1",
       "status": "ENABLED",
-      "lastpaidtime": 1701080035,
-      "lastpaidblock": 75820,
+      "lastpaidtime": 1701142713,
+      "lastpaidblock": 76262,
       "owneraddress": "KReKyLuCpSm2ot5zAbfY7NPkFF16db4NpP",
       "votingaddress": "KReKyLuCpSm2ot5zAbfY7NPkFF16db4NpP",
       "collateraladdress": "KUDJ8LGzQCtZ9SCafSd9ei2LqvnQdeSTU1",
@@ -1826,8 +1798,8 @@
       "address": "89.105.198.72:8999",
       "payee": "KK7A1sazdhUeHEQaE9z1dWyqFtrCmVV84y",
       "status": "ENABLED",
-      "lastpaidtime": 1701079999,
-      "lastpaidblock": 75819,
+      "lastpaidtime": 1701142706,
+      "lastpaidblock": 76261,
       "owneraddress": "KVDKNxjn9LMWjVWae8xSCWuKtxJp41Cumo",
       "votingaddress": "KVDKNxjn9LMWjVWae8xSCWuKtxJp41Cumo",
       "collateraladdress": "K8d2HDGfCNgFZUrPGEVfzvRYfnJhgAXi9L",
@@ -3278,20 +3250,6 @@
       "pubkeyoperator": "86ed1664df9d33c56dd6f9cb71629bef7549606fc8f460f914c24efd7e982edbbc4f1a094821ecd6a2feeef3b2f1a32c"
     },
     {
-      "proTxHash": "19eeca34bc7bc0183e681b077f7ae4a3abf2717ca51f7c5e6ad5cf24b4ea89d5",
-      "address": "138.68.106.180:8999",
-      "payee": "KMWTy31E194xMM2DQagEVj2eawZpvoQLUE",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700888815,
-      "lastpaidblock": 74498,
-      "owneraddress": "KUZRD7UhpGFCGCn6oKNTZTWpucaJ9wHCqP",
-      "votingaddress": "KUZRD7UhpGFCGCn6oKNTZTWpucaJ9wHCqP",
-      "collateraladdress": "KGnQFoP8AtK8nHKgxvevUNXgwZ6QWBmKdR",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "01e315200245da82423f32e2a6ec3a112cad3c5c0e689a149ed302275415f23e40a14c317e23022d95fbdcc117bd53bc"
-    },
-    {
       "proTxHash": "243dec8440a9525ccda7c95d64a543f30acaa6b64a435ea2bd4ca01bccaa1214",
       "address": "167.86.88.151:8999",
       "payee": "K94rssZNZoZ6yqSYWNrCin7LsjGe3hraFX",
@@ -3506,8 +3464,8 @@
       "address": "212.87.214.213:8999",
       "payee": "KEdnB39U9HhzzvyqUE5FVF9iWxEQobNcto",
       "status": "ENABLED",
-      "lastpaidtime": 1701080180,
-      "lastpaidblock": 75823,
+      "lastpaidtime": 1701143266,
+      "lastpaidblock": 76266,
       "owneraddress": "KFipxsBavWwAptzSp95PQMNEboNbp5YoKJ",
       "votingaddress": "K8AeW1roJvQbUUigQvuNJf4rMdg74HHzuo",
       "collateraladdress": "KQXC9icKGeQ8N3CG8qNZTCtRZcwPo1PZnM",
@@ -4202,20 +4160,6 @@
       "pubkeyoperator": "8b5000866170e651027de1f7f1cf6b87454943e3f9a93a3c4468ea48bc4ae089a75355b4ec6c5d6a7f416372e4f607bc"
     },
     {
-      "proTxHash": "2f39385f71a8178ca3685e87e4379c811e7a3ef2d4b2903816b3772a88955936",
-      "address": "138.68.97.134:8999",
-      "payee": "KPkDRDftK4QcaqfULB2bkcVxxnUnCqy6oF",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700862062,
-      "lastpaidblock": 74288,
-      "owneraddress": "KMR36PFkGsKsNWnm5fxJ6GFVnYDvCe6PbB",
-      "votingaddress": "KMR36PFkGsKsNWnm5fxJ6GFVnYDvCe6PbB",
-      "collateraladdress": "KSiV8yzqvsQ1NTwCRb7udDrCqMf6vqVnWE",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "81ed9910a9098ff15ce9c1794cad5d083c9f93031314e2221722b96e54d61bdff0e45932213c54beb6cda739d88ab726"
-    },
-    {
       "proTxHash": "1676739a1cfce7d3951df179604bc6e7aec4e8efe56f299f827fa7876769aa65",
       "address": "188.127.237.115:8999",
       "payee": "KVhgb1Hk9ztzmnJB1K42L74y1z4sn9GLqQ",
@@ -4384,6 +4328,20 @@
       "pubkeyoperator": "023f946568b6549fa31c1a2f68974b67082f9555e3b20e0797f6cb97bca397591299fada6d0a20e400070b5878b00603"
     },
     {
+      "proTxHash": "985d423f101bd55ced37f17da28a199d120ac992cca0884c312bd5baeb54c183",
+      "address": "91.228.56.130:8999",
+      "payee": "KRv2PxoST7aMYFDB6nreufUzxnD9JPR9q1",
+      "status": "POSE_BANNED",
+      "lastpaidtime": 1696526836,
+      "lastpaidblock": 45575,
+      "owneraddress": "KVbC6d3pKypfvQoHUrjeRKTyqL4iexogSs",
+      "votingaddress": "KFN7n8R7Fxex6AsXwcW4wwe4y9geiMctYQ",
+      "collateraladdress": "KDYn2V6X7AZThvuuYUbF7YPEqothvHNHmd",
+      "collateralamount": 1000,
+      "needToUpgrade": true,
+      "pubkeyoperator": "0eb3a6824e8d70778eb457870953fae9b9114bb0bd07bb04c661f601deb826075a88ae9cd1212d54509e93f0ea39d234"
+    },
+    {
       "proTxHash": "67c1817edb0ac79f65ede1577ec182080f1564213d4f17e3d45f421d46395cbc",
       "address": "15.204.245.222:8999",
       "payee": "K7oNYzHfWCebbrtRA5vqoGMD1siGJMozMF",
@@ -4494,34 +4452,6 @@
       "collateralamount": 2500,
       "needToUpgrade": false,
       "pubkeyoperator": "899d60540994a2c5e0af506a6d2abb577292e5f2932590d7c08105f3c243ba34353d1ea0922bd8c805b470b31bd9f8e9"
-    },
-    {
-      "proTxHash": "13dc8b8e926a70d34fc0f577d1d505967089ee889208048d03e963cb5d50dd24",
-      "address": "138.68.64.193:8999",
-      "payee": "KSUePkEH8M63NumqQEZwcvyYJw4vsRZ6Wv",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700947917,
-      "lastpaidblock": 74925,
-      "owneraddress": "KLcRQnMoewEjwWt5wNjaSz4WX4jbsvcxq6",
-      "votingaddress": "KLcRQnMoewEjwWt5wNjaSz4WX4jbsvcxq6",
-      "collateraladdress": "KSR4iAjD57pQoHBDo3KEmE1zjmhy3pj8w6",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "0527e8a5baada73575065d28e5444e5d066cf266c093c0c80509b748d51aab45513bb1ed2b561b76c87044dcc8b33816"
-    },
-    {
-      "proTxHash": "985d423f101bd55ced37f17da28a199d120ac992cca0884c312bd5baeb54c183",
-      "address": "91.228.56.130:8999",
-      "payee": "KRv2PxoST7aMYFDB6nreufUzxnD9JPR9q1",
-      "status": "POSE_BANNED",
-      "lastpaidtime": 1696526836,
-      "lastpaidblock": 45575,
-      "owneraddress": "KVbC6d3pKypfvQoHUrjeRKTyqL4iexogSs",
-      "votingaddress": "KFN7n8R7Fxex6AsXwcW4wwe4y9geiMctYQ",
-      "collateraladdress": "KDYn2V6X7AZThvuuYUbF7YPEqothvHNHmd",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "0eb3a6824e8d70778eb457870953fae9b9114bb0bd07bb04c661f601deb826075a88ae9cd1212d54509e93f0ea39d234"
     },
     {
       "proTxHash": "9a27456af01ef3ef20bffe6bc47a723228f8757ebc5f9d885c89dfa83a17dd49",
@@ -4662,20 +4592,6 @@
       "collateralamount": 1000,
       "needToUpgrade": true,
       "pubkeyoperator": "0da9ac0bf02cbfe1d96078af9b176b4fca1ffa6c052b88f5025f40718159f6fa6f048b5bb30d5a501d9e02143292bd73"
-    },
-    {
-      "proTxHash": "f21b8825be9385d3468fb2f8a26726f60cac7c8eca505c9ddff7cde598e09e3f",
-      "address": "161.35.213.91:8999",
-      "payee": "KNc3j2dHoFXLt1xzgPuUj2LCWUtmDqeXUk",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700863423,
-      "lastpaidblock": 74300,
-      "owneraddress": "KLSQNkfMRxxe6q5jMT8komND9qqFdfEkDY",
-      "votingaddress": "KLSQNkfMRxxe6q5jMT8komND9qqFdfEkDY",
-      "collateraladdress": "KUTWBokYwXNZTWHPpE6qVDpNJvVoLnpDUj",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "92bc0b07b9c599cdd1afd6cc13910d59827a4986a646b7a34018b12d0be72f88b03c623e7fd60a48d7990e1b2159b75a"
     },
     {
       "proTxHash": "d2b31dae59dc86642d17c5705ab428e8f27c56c729cd0e9cbd46dc95509cef5d",
@@ -5210,20 +5126,6 @@
       "pubkeyoperator": "16229fbe82bb2f52ff242c84ebf4d438764d9061eecb4598d95c2d18f924e68e4767712188a9cf4393a55844895a49c9"
     },
     {
-      "proTxHash": "477add53f9465c34b593eb990b0f408270df76cf0fdc20c28ee583a0bcf10287",
-      "address": "142.93.101.212:8999",
-      "payee": "K8GZNht5Z4WxcTARbfd4KiFQf4BSpxFaLV",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700832530,
-      "lastpaidblock": 74129,
-      "owneraddress": "KCViBzNjYgYCsG592cM9sLQ19xYg4aEqNz",
-      "votingaddress": "KCViBzNjYgYCsG592cM9sLQ19xYg4aEqNz",
-      "collateraladdress": "KJtcCsS617bEpKx32wiBqfLAuJhzhaDw3V",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "01fa20d3053875dbca464012c28e37b07c1db9ab7ed3380b8696e9291436f6bd92dfdac38a6c468062120245418e054e"
-    },
-    {
       "proTxHash": "e8b55640a4ffd31a54220072513309d679bf4dcd40a7a13daed611ca87b869d1",
       "address": "167.86.97.14:8999",
       "payee": "KJktw8o1mSP95S9czgoYvXBbp9hKzReDbd",
@@ -5306,20 +5208,6 @@
       "collateralamount": 2500,
       "needToUpgrade": false,
       "pubkeyoperator": "901496f4c5b522f1a04d415a94c76d9f89bcc3bd9f0dae6caf014b8668cfbdcbd40715d7eea39b2f9f7e0cf66f68390f"
-    },
-    {
-      "proTxHash": "1ab2bc7c0ed8af02d909bf9fbd6eabf4d4e1f8e0d0eaff068030a115dbfe7490",
-      "address": "209.38.249.197:8999",
-      "payee": "KT9F8g8aKnmSFNKRMN6uhRDjGzcNPVbsXC",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700948231,
-      "lastpaidblock": 74928,
-      "owneraddress": "KQjrx4DB65gkdtscrMqGxREDkcbcXHAFFK",
-      "votingaddress": "KQjrx4DB65gkdtscrMqGxREDkcbcXHAFFK",
-      "collateraladdress": "KQnD8JfiHEbpCmdDEV3pEn77zF7PW254yV",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "03e9477c5bbaa610383da4419f4571800c5224d2191d3f4dec2f08fa6db26b8817c0cba711330fa6abdbdfdf025717a1"
     },
     {
       "proTxHash": "34675e5e564d75b8147f6a902d61c0a4fbf8b737cbcefda5d98786e3d37590af",
@@ -5998,8 +5886,8 @@
       "address": "212.87.214.214:8999",
       "payee": "KSbmw8pK3v6miD1SfQUjN2BovZsiSxhWVA",
       "status": "ENABLED",
-      "lastpaidtime": 1701079389,
-      "lastpaidblock": 75818,
+      "lastpaidtime": 1701142689,
+      "lastpaidblock": 76259,
       "owneraddress": "KMnQTKbCU6zSFu8yztUWPmSXfn3mew8jjq",
       "votingaddress": "K7VGeLnDM9UnqY5AVkdKZadBbDzzYPQa47",
       "collateraladdress": "K9Unm49n3KUD1kegNTDfaKty7xFEQvavNi",
@@ -6146,6 +6034,20 @@
       "collateralamount": 1000,
       "needToUpgrade": true,
       "pubkeyoperator": "8e920f9644a9165e55e1b546cda39ad0ebbe7fd9935346cfd85b94f0f414066330b39b8cabf5b1e4a7ff5f28d1104a47"
+    },
+    {
+      "proTxHash": "9cc07ca0a6f082cde0d451e2ac4a88b21dbea5dbc3c309e6decdd8fadb878fdc",
+      "address": "169.150.218.20:8999",
+      "payee": "KAfPiJRURwgvYmnUPtKmTiyJHKwVMQR7nh",
+      "status": "ENABLED",
+      "lastpaidtime": 1701102789,
+      "lastpaidblock": 75969,
+      "owneraddress": "KWXUodpzaDooXoqgAd1zNdEa76CCcjQAWH",
+      "votingaddress": "KWXUodpzaDooXoqgAd1zNdEa76CCcjQAWH",
+      "collateraladdress": "K93vDHZbsgibDTEQAqjySGASyctcfBopxX",
+      "collateralamount": 2500,
+      "needToUpgrade": false,
+      "pubkeyoperator": "8956333f0c1b8b52cae893d3d499e01f76a061cbf9c0bd3d7c59cfab07b3fec2244fef0f33773de4e77462152c30bafd"
     },
     {
       "proTxHash": "16f0e606e96b12fff59507d2d7fdacd28c6bf4d21ba2ea97704a24162efe4a6e",
@@ -6328,34 +6230,6 @@
       "collateralamount": 2500,
       "needToUpgrade": false,
       "pubkeyoperator": "0124f4f7954e810d1c7eebf6045b34ecde0017e5dc671421bc2b07515155a6a783587fa94cd10fe822dabedd6e9bbb4a"
-    },
-    {
-      "proTxHash": "a413f7bc03300a9adb4dc1f5f39a4723c7faa15125f710528a5b8984d476da07",
-      "address": "157.230.111.34:8999",
-      "payee": "KRiKNF9DNS3ce9qJ5z6XQ1q9eLiD3uAs7W",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700865528,
-      "lastpaidblock": 74312,
-      "owneraddress": "KVbVg7kcjBEG2WTRPu99CrXbM7i9AwAReN",
-      "votingaddress": "KVbVg7kcjBEG2WTRPu99CrXbM7i9AwAReN",
-      "collateraladdress": "KJHyrY8KWqKqhWZur84PXju431tU4B5XvA",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "134fcfce7e38a628f106efe6786c20a6a8792fefb02d6e2f42ec729451967d7b4c4725a842df7a4ed9a249c3a9fb7c4c"
-    },
-    {
-      "proTxHash": "9cc07ca0a6f082cde0d451e2ac4a88b21dbea5dbc3c309e6decdd8fadb878fdc",
-      "address": "169.150.218.20:8999",
-      "payee": "KAfPiJRURwgvYmnUPtKmTiyJHKwVMQR7nh",
-      "status": "ENABLED",
-      "lastpaidtime": 1701102789,
-      "lastpaidblock": 75969,
-      "owneraddress": "KWXUodpzaDooXoqgAd1zNdEa76CCcjQAWH",
-      "votingaddress": "KWXUodpzaDooXoqgAd1zNdEa76CCcjQAWH",
-      "collateraladdress": "K93vDHZbsgibDTEQAqjySGASyctcfBopxX",
-      "collateralamount": 2500,
-      "needToUpgrade": false,
-      "pubkeyoperator": "8956333f0c1b8b52cae893d3d499e01f76a061cbf9c0bd3d7c59cfab07b3fec2244fef0f33773de4e77462152c30bafd"
     },
     {
       "proTxHash": "82c797c3ded8195b4e3c534ec555e65a82060b621866752d495135e381b2a9cc",
@@ -6582,6 +6456,20 @@
       "pubkeyoperator": "8ba79b9ff7c0fd582ad23bcb9d4c201e86ca2dd1f59b3b58531c68f218ee99c5dd25c196721e0b0cd574b0aa3bceb432"
     },
     {
+      "proTxHash": "12515a767419f0810f6c2df244407c3b574c66140053ddec943f2acd83035608",
+      "address": "5.75.160.251:8999",
+      "payee": "KUGcF9Z9UTfHU2hNzzNCfqDkSmWB3QvSsC",
+      "status": "ENABLED",
+      "lastpaidtime": 1701139962,
+      "lastpaidblock": 76244,
+      "owneraddress": "KKAcTy43xks6t5bQMLTj4JEqZvwHbFHs3L",
+      "votingaddress": "KKAcTy43xks6t5bQMLTj4JEqZvwHbFHs3L",
+      "collateraladdress": "KB4KbSwwWSt9JDBspTHNskunFL59W8E3zD",
+      "collateralamount": 2500,
+      "needToUpgrade": false,
+      "pubkeyoperator": "13116f5c15bcaedecec0d1ac1270deffb56c84c0ea50a538f55b2c19d87386f2aafdd4f41ac2c60ef36001d5e04e60f0"
+    },
+    {
       "proTxHash": "ae3ef58737e17b3386e6da8a735a61b2c7d3b0fb8075bc4c1b62eca7916ebc12",
       "address": "167.86.89.31:8999",
       "payee": "KL25DDKJ98iCoitUFcm1o9iKjJ5bZYfAdc",
@@ -6694,20 +6582,6 @@
       "pubkeyoperator": "0cb65efa3f9d9837acc0b48ffda12261f3d12430c66ee048557bfb177405dc89d83684bd6d14464a42e8bb52b2053c1b"
     },
     {
-      "proTxHash": "6802521019b1c4ea7b6460b13a2fe14445b5d4e8e3c5f6639614b6897f1108df",
-      "address": "165.232.112.238:8999",
-      "payee": "KGGRQ3oCMryEhEq3X5Mg6YNvDtCgtdxkLj",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700917007,
-      "lastpaidblock": 74708,
-      "owneraddress": "K7RLWcoEieNZ8pELf9oZq87o8aqjLWX5UA",
-      "votingaddress": "K7RLWcoEieNZ8pELf9oZq87o8aqjLWX5UA",
-      "collateraladdress": "KPCtHFLXyRVSTv8ftKGKsettd8nF98aDjR",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "82565fd015e79c382aaff5fe4f59449ea38fb5b7b27d13e9e300145b9c302b75959b4b7fcec43e795599650ee68e9767"
-    },
-    {
       "proTxHash": "9b0945a97dec599240bdfc66092cd5a3560af40135eae0a16c6d0960a4e2f2f9",
       "address": "2.58.82.178:8999",
       "payee": "KLqPQNoAs87ou1WhdudrDGXvqvEPR2Th8g",
@@ -6748,34 +6622,6 @@
       "collateralamount": 2500,
       "needToUpgrade": false,
       "pubkeyoperator": "0758bb8bde98798db4160d88b5abe446ad1e2991acb4705f63178ef700430e670b9ba5f2cce0e79a1f600c27f58a106f"
-    },
-    {
-      "proTxHash": "e52900d3adb8a9b14b617dfa559329c749efbc87c4c5cdb7c12e84f0b8cf02cf",
-      "address": "157.230.104.90:8999",
-      "payee": "KNni8pDxELVhgwV55psmMggnRbRAR5NELF",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700881335,
-      "lastpaidblock": 74441,
-      "owneraddress": "KTUFXkHeBF1zvx3aTTndWWacyr5VBGdQKg",
-      "votingaddress": "KTUFXkHeBF1zvx3aTTndWWacyr5VBGdQKg",
-      "collateraladdress": "KKX6dVUj88wWwNBHXKhRx37Xv4f7yLmg7R",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "0ea81e6e17bd8bf8e70b38a66401c5280911b52b5bd5bd64f837f66995eccb33e13fccb8df4c2210eb6a9c8d8c3dd3d1"
-    },
-    {
-      "proTxHash": "12515a767419f0810f6c2df244407c3b574c66140053ddec943f2acd83035608",
-      "address": "5.75.160.251:8999",
-      "payee": "KUGcF9Z9UTfHU2hNzzNCfqDkSmWB3QvSsC",
-      "status": "ENABLED",
-      "lastpaidtime": 1701139962,
-      "lastpaidblock": 76244,
-      "owneraddress": "KKAcTy43xks6t5bQMLTj4JEqZvwHbFHs3L",
-      "votingaddress": "KKAcTy43xks6t5bQMLTj4JEqZvwHbFHs3L",
-      "collateraladdress": "KB4KbSwwWSt9JDBspTHNskunFL59W8E3zD",
-      "collateralamount": 2500,
-      "needToUpgrade": false,
-      "pubkeyoperator": "13116f5c15bcaedecec0d1ac1270deffb56c84c0ea50a538f55b2c19d87386f2aafdd4f41ac2c60ef36001d5e04e60f0"
     },
     {
       "proTxHash": "357b9b3ad064319e6548b10f5c1f7033d0d1a478869144e2f4130502bf3a0ce5",
@@ -6922,8 +6768,8 @@
       "address": "43.139.37.188:8999",
       "payee": "KVufWXXRXR9HCZfyWWmKFM4U23jhpgEzu7",
       "status": "ENABLED",
-      "lastpaidtime": 0,
-      "lastpaidblock": 0,
+      "lastpaidtime": 1701142693,
+      "lastpaidblock": 76260,
       "owneraddress": "KA7VBivVi593MiemSdM4bYSEkWVZdQq6Cv",
       "votingaddress": "KA7VBivVi593MiemSdM4bYSEkWVZdQq6Cv",
       "collateraladdress": "KMTUi3URiSk1AbJprMnSrPtvxDpdwpf8cj",
@@ -7044,6 +6890,20 @@
       "pubkeyoperator": "0fd8d0b792a4f734e71078781ad357fa59e8ba8ad478c6b124cc1815612397624179a864afcf34c630640642b0d58959"
     },
     {
+      "proTxHash": "9d5a23e98f73f6746e195981a72c98942fa770a931922c9cf2aa0f0b9d2b4e30",
+      "address": "82.119.112.245:8999",
+      "payee": "K7dAG9HnnZrcqnPqAiqHQfjbXrLecWQCoH",
+      "status": "ENABLED",
+      "lastpaidtime": 1701123275,
+      "lastpaidblock": 76130,
+      "owneraddress": "KGyeA1RkdrEvNEwiU2ySWDJnjN3Q21SUw5",
+      "votingaddress": "KGyeA1RkdrEvNEwiU2ySWDJnjN3Q21SUw5",
+      "collateraladdress": "KSyZHVTNULRob4fLBHocKKe2BGAGsJZwLC",
+      "collateralamount": 2500,
+      "needToUpgrade": false,
+      "pubkeyoperator": "8d3bab69d391dfb8855dbe1f4e6b16718a590ba2699cf67af76473f911e5aa53e3d11383fbb07ce32bd0977ab2f15ce8"
+    },
+    {
       "proTxHash": "1b006466b6434c28124b24c88ec35df6f606893d3cb2e3aef47799b66c2df806",
       "address": "207.180.193.28:8999",
       "payee": "KNjZujPuboTfspX4UQuHAjvg7aymZGaekQ",
@@ -7126,34 +6986,6 @@
       "collateralamount": 2500,
       "needToUpgrade": false,
       "pubkeyoperator": "07b974e2ff6082aac07581a4f5d651cd20d55ccdde671ebf3f135db9ec87cd236c28da8d2bdae97f7b1bcd7e40b85a60"
-    },
-    {
-      "proTxHash": "5b659a2fad66dcdb63037301de9e278688080b28a0ba0dcfca8856386b6c75e9",
-      "address": "134.209.235.232:8999",
-      "payee": "KQVyhUm5btC2tyaWaMXS7JBeatgVzu9DZc",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700865358,
-      "lastpaidblock": 74311,
-      "owneraddress": "K8P4Z1bCKJWEDED4vA7wGXGxyz4uQE6Y3F",
-      "votingaddress": "K8P4Z1bCKJWEDED4vA7wGXGxyz4uQE6Y3F",
-      "collateraladdress": "KVMhSWXvBAgcWCDKfPYjtiHBGMEaoRb9fS",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "122564699100d8171201d5c92fb6caf19568bd986b648d0d6dd1dce40cca690534f6827ffb06df8bc383ff436718ac79"
-    },
-    {
-      "proTxHash": "9d5a23e98f73f6746e195981a72c98942fa770a931922c9cf2aa0f0b9d2b4e30",
-      "address": "82.119.112.245:8999",
-      "payee": "K7dAG9HnnZrcqnPqAiqHQfjbXrLecWQCoH",
-      "status": "ENABLED",
-      "lastpaidtime": 1701123275,
-      "lastpaidblock": 76130,
-      "owneraddress": "KGyeA1RkdrEvNEwiU2ySWDJnjN3Q21SUw5",
-      "votingaddress": "KGyeA1RkdrEvNEwiU2ySWDJnjN3Q21SUw5",
-      "collateraladdress": "KSyZHVTNULRob4fLBHocKKe2BGAGsJZwLC",
-      "collateralamount": 2500,
-      "needToUpgrade": false,
-      "pubkeyoperator": "8d3bab69d391dfb8855dbe1f4e6b16718a590ba2699cf67af76473f911e5aa53e3d11383fbb07ce32bd0977ab2f15ce8"
     },
     {
       "proTxHash": "fce125cb45ffe21861960d8fedfc24b0849079a13c76eb128b515f7bd20be5fb",
@@ -8066,20 +7898,6 @@
       "pubkeyoperator": "10750d2c0d7fae2441df92e9af5fe66b0ca10fce28ed916a696ce83541fdd105dbd525406cce6a938f2269d818798f57"
     },
     {
-      "proTxHash": "e829db9f22896bc0baa8aeb3182e2b9b354728f50c832cee409ab3cec25f6e78",
-      "address": "138.68.97.211:8999",
-      "payee": "KKWSguBowitpq6AWPp4GHQez4QfJzi1ezF",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700865195,
-      "lastpaidblock": 74309,
-      "owneraddress": "KQpfGNGJgXdZPcBcmpwwQRMdfCkEZZmSNY",
-      "votingaddress": "KQpfGNGJgXdZPcBcmpwwQRMdfCkEZZmSNY",
-      "collateraladdress": "KVQrzNZi9tHPAHkRUc8mE2cC7KKMPFFpBi",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "923109360d3edf0f7bbe459f13187f5e4ee77022208dffe28df24f7c0d2034ce16e87d8f23081b1c4443fa007465a756"
-    },
-    {
       "proTxHash": "5d1996c568c78b132c1060ee6551e52e165337530e329db668bde9998039a3ca",
       "address": "82.119.112.230:8999",
       "payee": "K9ioYwt52JTdoMiPnr7xfZrbTaA4YLWoZK",
@@ -8176,20 +7994,6 @@
       "collateralamount": 2500,
       "needToUpgrade": false,
       "pubkeyoperator": "83c6dd0df54ec65d7fc67c86080eb7f8767e57acebd1ca6231454e28a89b6fd125232157a34ef211e9d84a54a814c291"
-    },
-    {
-      "proTxHash": "81d490c0fd995f1847a12aa408366651983ddd221342ab2b3bc7f8bcb3613414",
-      "address": "134.209.225.94:8999",
-      "payee": "KUYPU1d4iHtQ9nqHRTQkB9pio9Nd1EFByF",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700901885,
-      "lastpaidblock": 74579,
-      "owneraddress": "KSAgDiNSxoLYGpfDFrCGWVmCG7Pdk3Veiz",
-      "votingaddress": "KSAgDiNSxoLYGpfDFrCGWVmCG7Pdk3Veiz",
-      "collateraladdress": "KH4HaBWAidqyywx94FRtH6fUY9PrpdevrA",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "91d74fa07694b0b354bf9e3432ac6a4464be6647c7e0cbce9a547bc9329e0b209e2d15a4337ddf2df6b7dc351894db19"
     },
     {
       "proTxHash": "4bd3aa62f98e8317b4c99aa66c5624e8abde0dcf98d01e54cfb40ba177c7b89c",
@@ -8392,8 +8196,8 @@
       "address": "107.173.250.206:8999",
       "payee": "KQnQrBzZftkHCdd8MW5Lt6SsFXqp5Ur2WW",
       "status": "ENABLED",
-      "lastpaidtime": 0,
-      "lastpaidblock": 0,
+      "lastpaidtime": 1701143101,
+      "lastpaidblock": 76264,
       "owneraddress": "KJLNTjsV3PE7MsSKyvwpqv8uJUNaPJNnUs",
       "votingaddress": "KJLNTjsV3PE7MsSKyvwpqv8uJUNaPJNnUs",
       "collateraladdress": "KAGwG96jEJgSMauakPzGmLKkVfWnmYufpL",
@@ -8738,6 +8542,20 @@
       "pubkeyoperator": "18ad4bbc6121c04251ea691b4f3f5bc9357292102d9b8f68e90358335c5e81197ce41e83f37c9fea24b676d78f8e3054"
     },
     {
+      "proTxHash": "a30c17cd7434405367843b9687d880a2a9176f5f860300246f95df17fa44d106",
+      "address": "167.86.96.248:8999",
+      "payee": "KEn8Wis7McQVMpm8ideVnPN1FXMFh4Fu66",
+      "status": "UNKNOWN",
+      "lastpaidtime": 1700850294,
+      "lastpaidblock": 74229,
+      "owneraddress": "KHTMijEyKeVtt8nNnf4vJRpveB3nMLs3Tw",
+      "votingaddress": "KHTMijEyKeVtt8nNnf4vJRpveB3nMLs3Tw",
+      "collateraladdress": "KEn8Wis7McQVMpm8ideVnPN1FXMFh4Fu66",
+      "collateralamount": 1000,
+      "needToUpgrade": true,
+      "pubkeyoperator": "0914e759c2982efd2356266a24da0cecbe16b700beebadaa28c65d89dd15c40326cc928965ca9ff83cac0d8bc3acc6fd"
+    },
+    {
       "proTxHash": "05959b9b23e70d156349e978a6ae276036363fc8899a154bfd837eabbf60d197",
       "address": "173.212.234.230:8999",
       "payee": "KDZxFFT8pBFyBuFTN19k4sCE6aViTEbNwf",
@@ -8918,34 +8736,6 @@
       "collateralamount": 2500,
       "needToUpgrade": false,
       "pubkeyoperator": "8cf124307f8ae0dcf839ee694cbd2ff1e73c6a8b5fcb82183603fb1e4f59cab2fc1e234ada2b6d241f1cd2f1a2106e0c"
-    },
-    {
-      "proTxHash": "a30c17cd7434405367843b9687d880a2a9176f5f860300246f95df17fa44d106",
-      "address": "167.86.96.248:8999",
-      "payee": "KEn8Wis7McQVMpm8ideVnPN1FXMFh4Fu66",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700850294,
-      "lastpaidblock": 74229,
-      "owneraddress": "KHTMijEyKeVtt8nNnf4vJRpveB3nMLs3Tw",
-      "votingaddress": "KHTMijEyKeVtt8nNnf4vJRpveB3nMLs3Tw",
-      "collateraladdress": "KEn8Wis7McQVMpm8ideVnPN1FXMFh4Fu66",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "0914e759c2982efd2356266a24da0cecbe16b700beebadaa28c65d89dd15c40326cc928965ca9ff83cac0d8bc3acc6fd"
-    },
-    {
-      "proTxHash": "29490c1f013256b343b0dc6030b44b793312a1b64d60a33cb2fb8866c7888214",
-      "address": "46.101.139.134:8999",
-      "payee": "KJx8DaUhf1GiGqbDPsWtTKcb9oErrw2nxP",
-      "status": "UNKNOWN",
-      "lastpaidtime": 1700835174,
-      "lastpaidblock": 74141,
-      "owneraddress": "K9oAA7y7y5tz5PrKWuRGgofchCy9orM6oR",
-      "votingaddress": "K9oAA7y7y5tz5PrKWuRGgofchCy9orM6oR",
-      "collateraladdress": "KNYquuBzg7RQfg3UfCxcoHWuzdU6HFg8GT",
-      "collateralamount": 1000,
-      "needToUpgrade": true,
-      "pubkeyoperator": "8637a505f1dd294070883ad2b8b67322f176f7a3a3dfb7b47c6813d8879f1155a7247175ce237b9abc7d7ec1e334af0d"
     },
     {
       "proTxHash": "25730b76eb1be5e2d898f8119f1aae2a63683a6eab9e5c044dd268a818763dfe",
