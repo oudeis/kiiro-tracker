@@ -2,8 +2,8 @@ Total Masternodes:
 623
 
 Masternodes by Status:
-    499 ENABLED
-     33 POSE_BANNED
+    503 ENABLED
+     29 POSE_BANNED
      91 UNKNOWN
 
 Payees with More Than 1 Masternode:
@@ -23,7 +23,6 @@ Payees with More Than 1 Masternode:
       4 KUutbshaV2X1J6cu1hxn4gYG8Dxa82c595
       4 KUZ4x6Ui8dAdEE5QWS9gjG5x8e7YVsJ5rg
       4 KJuiLcM1LhYBaNSyYsN9GVQKtKai9qAzek
-      4 K7p7cDo59VffMww97wsjxz96fzH6mMqCwR
       3 KUk2NbNpgseyY6LdgT9cdtZfHgp3Hm5GQv
       3 KU5Agii4xwqzMTP9qVt358BsLD6T7cu1Cx
       3 KSkwb9zDFcLrVpq7aTBDAaTRfGEWbMA6u6
@@ -46,6 +45,7 @@ Payees with More Than 1 Masternode:
       2 KGWUUJYoLzUes7uJvtmzoDex5nkKkSmPYX
       2 KFsRxHQVvZTQRLCfvAMs5rqi1Z8oN7m6eY
       2 K8Km79aNcgLZvFrYmArBG3bdyi8Fc4dCzk
+      2 K7p7cDo59VffMww97wsjxz96fzH6mMqCwR
 
 List of Masternodes with Status Other Than 'ENABLED':
 {
@@ -123,10 +123,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "1a129bcc40a44f609c3c2dc2d7b930a5264e3ec8202586f43ca4b08f82e6f518",
   "status": "UNKNOWN"
-}
-{
-  "proTxHash": "2c539e07037f30947c543607cc68a0c94c3dc94ee74d5e6e39dafed614883ca6",
-  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "45c67f51c07a0820379685aaa53f1ad45d4f19008838131d5422414a60803794",
@@ -226,10 +222,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "c5f69b168c737d6ced2b2672064bf519817bb9729cc81e50cbb6be9b91ce9075",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "4c39d40582f44cbc61dcb654672a38f2fc625cf9063804c610a4c0c04c63128c",
   "status": "POSE_BANNED"
 }
 {
@@ -359,14 +351,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "491e41025cc4ecad19277611758854224c72258befa9123bc910272544fd72d3",
   "status": "UNKNOWN"
-}
-{
-  "proTxHash": "7f7e465226ad7ccf2b6d459c7fef98c5f951312a4b6c3c8527758e3d6c47bed8",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "ef4b2ecb6cd17d4dbaf712c79e5bec1b341cf5b177e05865c325616607c0a378",
-  "status": "POSE_BANNED"
 }
 {
   "proTxHash": "994afe6924607f5fe68371466b05ecc5beb68043888eead5182c9728cff28ce3",
