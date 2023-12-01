@@ -2,8 +2,8 @@ Total Masternodes:
 615
 
 Masternodes by Status:
-    538 ENABLED
-     30 POSE_BANNED
+    539 ENABLED
+     29 POSE_BANNED
      47 UNKNOWN
 
 Payees with More Than 1 Masternode:
@@ -275,10 +275,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "a869fc5360f43f87af9df37eb8629fc6021a367abc4bc49eb254f2b6ece0d4ce",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "33656bbd9191ef97055d0ca8d0d1ae479b32cb1581fda1984117ef96ac339d11",
   "status": "POSE_BANNED"
 }
 {
