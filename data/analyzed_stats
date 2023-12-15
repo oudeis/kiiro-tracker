@@ -100,6 +100,10 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "UNKNOWN"
 }
 {
+  "proTxHash": "f37c80ffe300becb42f7ed59b1d96a12c45930e2553c37ec8b97b367e348e56b",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "e263411c8e2b1e8f2355e70965325ea8a0cb776a6cf25071d094b6d6e49f88e7",
   "status": "UNKNOWN"
 }
@@ -206,8 +210,4 @@ List of Masternodes with Status Other Than 'ENABLED':
 {
   "proTxHash": "fc8881a2548eb705b61b642c129241d75768d8b7b6b94433a148ad1080699a80",
   "status": "UNKNOWN"
-}
-{
-  "proTxHash": "a3287c72d13cd05b1d9ea13e005002f7ddd040b21b505635ba2c84e083e6e108",
-  "status": "POSE_BANNED"
 }
