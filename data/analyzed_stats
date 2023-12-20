@@ -52,6 +52,10 @@ Payees with More Than 1 Masternode:
 
 List of Masternodes with Status Other Than 'ENABLED':
 {
+  "proTxHash": "d4b83a6c4a330bb1ad5107a563128fd254c16b6bf90221b1af5650feb5d30792",
+  "status": "POSE_BANNED"
+}
+{
   "proTxHash": "a76940b185c12a49ee5b06dc89fe9280c02f63082772e1e419fe27c1c0e1d1b4",
   "status": "POSE_BANNED"
 }
@@ -125,10 +129,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "985d423f101bd55ced37f17da28a199d120ac992cca0884c312bd5baeb54c183",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "275cf66be74fb0a94484af8fca35c4d3105937fe432640efaee04128310c4c80",
   "status": "POSE_BANNED"
 }
 {
