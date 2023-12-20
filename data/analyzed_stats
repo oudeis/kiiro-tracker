@@ -2,8 +2,8 @@ Total Masternodes:
 666
 
 Masternodes by Status:
-    623 ENABLED
-     32 POSE_BANNED
+    627 ENABLED
+     28 POSE_BANNED
      11 UNKNOWN
 
 Payees with More Than 1 Masternode:
@@ -51,10 +51,6 @@ Payees with More Than 1 Masternode:
       2 K93q3nspZsBxpeRmb8VZa1TcUsmGz3wotS
 
 List of Masternodes with Status Other Than 'ENABLED':
-{
-  "proTxHash": "d4b83a6c4a330bb1ad5107a563128fd254c16b6bf90221b1af5650feb5d30792",
-  "status": "POSE_BANNED"
-}
 {
   "proTxHash": "a76940b185c12a49ee5b06dc89fe9280c02f63082772e1e419fe27c1c0e1d1b4",
   "status": "POSE_BANNED"
@@ -128,11 +124,11 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
-  "proTxHash": "331c1d06db9d2e0f36b82a83a4a242f12a7fb5f05169a249d85f20b8636494e3",
+  "proTxHash": "985d423f101bd55ced37f17da28a199d120ac992cca0884c312bd5baeb54c183",
   "status": "POSE_BANNED"
 }
 {
-  "proTxHash": "985d423f101bd55ced37f17da28a199d120ac992cca0884c312bd5baeb54c183",
+  "proTxHash": "275cf66be74fb0a94484af8fca35c4d3105937fe432640efaee04128310c4c80",
   "status": "POSE_BANNED"
 }
 {
@@ -141,10 +137,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "80d81f0e53380091e927f6653010457b9ea8d4b779e04b8960bf1e9ee2b920b2",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "708451a69233d32944b74cc5b696127cc5554ce6d7122cf20475395f30626f66",
   "status": "POSE_BANNED"
 }
 {
@@ -180,10 +172,6 @@ List of Masternodes with Status Other Than 'ENABLED':
   "status": "POSE_BANNED"
 }
 {
-  "proTxHash": "d3298386b8192b7c1608c7b4e4f0e58ec91da69f8d459da2624d25b4b2fd93f2",
-  "status": "POSE_BANNED"
-}
-{
   "proTxHash": "357b9b3ad064319e6548b10f5c1f7033d0d1a478869144e2f4130502bf3a0ce5",
   "status": "UNKNOWN"
 }
@@ -201,10 +189,6 @@ List of Masternodes with Status Other Than 'ENABLED':
 }
 {
   "proTxHash": "df5d9745ffedd35a1d7b9b5554108d85c2cb36731e1396b439a20953576e78b8",
-  "status": "POSE_BANNED"
-}
-{
-  "proTxHash": "ac54db5f6e6cce9328981558129d69aee934541888349460c1c6d905215acf68",
   "status": "POSE_BANNED"
 }
 {
